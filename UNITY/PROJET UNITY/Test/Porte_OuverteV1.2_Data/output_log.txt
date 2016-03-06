@@ -1,0 +1,39 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\pierre\Desktop\projet\Projet 2A - 2014-2015\unity\Test\Porte_OuverteV1.2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\pierre\Desktop\projet\Projet 2A - 2014-2015\unity\Test\Porte_OuverteV1.2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\pierre\Desktop\projet\Projet 2A - 2014-2015\unity\Test\Porte_OuverteV1.2_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\pierre\Desktop\projet\Projet 2A - 2014-2015\unity\Test\Porte_OuverteV1.2_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\pierre\Desktop\projet\Projet 2A - 2014-2015\unity\Test\Porte_OuverteV1.2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\pierre\Desktop\projet\Projet 2A - 2014-2015\unity\Test\Porte_OuverteV1.2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\pierre\Desktop\projet\Projet 2A - 2014-2015\unity\Test\Porte_OuverteV1.2_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\pierre\Desktop\projet\Projet 2A - 2014-2015\unity\Test\Porte_OuverteV1.2_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\pierre\Desktop\projet\Projet 2A - 2014-2015\unity\Test\Porte_OuverteV1.2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\pierre\Desktop\projet\Projet 2A - 2014-2015\unity\Test\Porte_OuverteV1.2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.078 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\pierre\Desktop\projet\Projet 2A - 2014-2015\unity\Test\Porte_OuverteV1.2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\pierre\Desktop\projet\Projet 2A - 2014-2015\unity\Test\Porte_OuverteV1.2_Data\Managed\System.dll (this message is harmless)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.419168 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 11809.
+Total: 1.506295 ms (FindLiveObjects: 0.491013 ms CreateObjectMapping: 0.240169 ms MarkObjects: 0.747194 ms  DeleteObjects: 0.027506 ms)
+
+Platform assembly: C:\Users\pierre\Desktop\projet\Projet 2A - 2014-2015\unity\Test\Porte_OuverteV1.2_Data\Managed\Boo.Lang.dll (this message is harmless)
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.560260 ms
+
+Unloading 1581 unused Assets to reduce memory usage. Loaded Objects now: 195.
+Total: 6.712437 ms (FindLiveObjects: 0.078003 ms CreateObjectMapping: 0.082930 ms MarkObjects: 0.127679 ms  DeleteObjects: 6.423001 ms)
+

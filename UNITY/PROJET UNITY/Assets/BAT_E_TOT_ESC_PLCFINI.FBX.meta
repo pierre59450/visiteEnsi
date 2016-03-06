@@ -1,0 +1,1624 @@
+fileFormatVersion: 2
+guid: 441261d9f7d3fab48a1e357569e5ea55
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: 1er
+    100002: 2eme
+    100004: 3eme
+    100006: //RootNode
+    100008: Box001
+    100010: Box002
+    100012: Box003
+    100014: Box004
+    100016: Box005
+    100018: Box006
+    100020: Box007
+    100022: Box008
+    100024: Box009
+    100026: Box010
+    100028: Box011
+    100030: Box012
+    100032: Box013
+    100034: Box014
+    100036: Box015
+    100038: Box016
+    100040: Box017
+    100042: Box018
+    100044: Box019
+    100046: Box020
+    100048: escalier
+    100050: escalier001
+    100052: escalier002
+    100054: escalier003
+    100056: escalier004
+    100058: escalier005
+    100060: escalier2
+    100062: Line001
+    100064: Line002
+    100066: Line003
+    100068: Line004
+    100070: Line005
+    100072: Line006
+    100074: Line007
+    100076: Line008
+    100078: Line009
+    100080: Line010
+    100082: Line011
+    100084: Line012
+    100086: Line013
+    100088: Line015
+    100090: Line016
+    100092: Line017
+    100094: Line018
+    100096: Line019
+    100098: Line020
+    100100: Line021
+    100102: Line022
+    100104: Line023
+    100106: Line024
+    100108: Line025
+    100110: Line026
+    100112: Line027
+    100114: Line028
+    100116: Line029
+    100118: Line030
+    100120: Line031
+    100122: Line032
+    100124: Line033
+    100126: Line034
+    100128: Line035
+    100130: Line036
+    100132: Line037
+    100134: Line038
+    100136: Line039
+    100138: Line040
+    100140: Line041
+    100142: Line042
+    100144: Line043
+    100146: Line044
+    100148: Line045
+    100150: Line046
+    100152: Line047
+    100154: Line048
+    100156: Line049
+    100158: Line050
+    100160: Line051
+    100162: Line052
+    100164: Line053
+    100166: Line054
+    100168: Line055
+    100170: Line056
+    100172: Line057
+    100174: Line058
+    100176: Line059
+    100178: Line061
+    100180: planch__ 3eme
+    100182: planch__ 3eme001
+    100184: planch__ 3eme002
+    100186: Plane001
+    100188: RDC
+    100190: Rectangle001
+    100192: Rectangle002
+    100194: Rectangle003
+    100196: Rectangle004
+    100198: Rectangle005
+    100200: Rectangle006
+    100202: Rectangle007
+    100204: Rectangle009
+    100206: StraightStair001
+    100208: StraightStair002
+    100210: StraightStair003
+    100212: StraightStair004
+    100214: StraightStair005
+    100216: StraightStair006
+    100218: StraightStair007
+    100220: StraightStair008
+    100222: StraightStair009
+    100224: StraightStair010
+    100226: StraightStair011
+    100228: StraightStair012
+    100230: StraightStair013
+    100232: StraightStair014
+    100234: StraightStair015
+    100236: StraightStair016
+    100238: StraightStair017
+    100240: StraightStair018
+    100242: StraightStair019
+    100244: StraightStair020
+    100246: Box021
+    100248: Box022
+    100250: coupe feux
+    100252: coupe feux001
+    100254: coupe feux002
+    100256: coupe feux003
+    100258: coupe feux004
+    100260: coupe feux005
+    100262: coupe feux006
+    100264: coupe feux007
+    100266: coupe feux008
+    100268: coupe feux009
+    100270: coupe feux010
+    100272: coupe feux011
+    100274: coupe feux012
+    100276: coupe feux013
+    100278: coupe feux014
+    100280: coupe feux015
+    100282: coupe feux016
+    100284: coupe feux017
+    100286: Line062
+    100288: Object003
+    100290: Object004
+    100292: Object005
+    100294: porte
+    100296: porte001
+    100298: porte002
+    100300: porte003
+    100302: porte004
+    100304: porte005
+    100306: porte006
+    100308: porte007
+    100310: porte008
+    100312: vitre facade
+    100314: vitre facade001
+    100316: vitre facade002
+    100318: vitre facade003
+    100320: vitre facade004
+    100322: vitre facade005
+    100324: vitre facade006
+    100326: vitre facade007
+    100328: vitre facade008
+    100330: vitre facade009
+    100332: vitre facade010
+    100334: vitre facade011
+    100336: vitre facade012
+    100338: vitre facade013
+    100340: vitre facade014
+    100342: vitre facade016
+    100344: vitre facade017
+    100346: vitre facade018
+    100348: vitre facade019
+    100350: vitre facade020
+    100352: vitre facade021
+    100354: vitre facade022
+    100356: vitre facade023
+    100358: vitre facade024
+    100360: vitre facade025
+    100362: vitre facade026
+    100364: vitre facade027
+    100366: vitre facade028
+    100368: vitre facade029
+    100370: vitre facade030
+    100372: vitre facade031
+    100374: vitre facade032
+    100376: vitre facade033
+    100378: vitre facade034
+    100380: vitre facade035
+    100382: vitre facade036
+    100384: vitre facade037
+    100386: vitre facade038
+    100388: vitre facade039
+    100390: vitre facade040
+    100392: vitre facade041
+    100394: vitre facade042
+    100396: vitre facade043
+    100398: vitre facade044
+    100400: vitre facade045
+    100402: vitre facade046
+    100404: vitre facade047
+    100406: vitre facade048
+    100408: vitre facade049
+    100410: vitre facade050
+    100412: vitre facade051
+    100414: vitre facade052
+    100416: vitre facade053
+    100418: vitre facade054
+    100420: vitre facade055
+    100422: vitre facade056
+    100424: vitre facade057
+    100426: vitre facade058
+    100428: vitre facade059
+    100430: Box001 1
+    100432: Box002 1
+    100434: Box003 1
+    100436: Box004 1
+    100438: Box005 1
+    100440: Box006 1
+    100442: Box007 1
+    100444: Box008 1
+    100446: Box009 1
+    100448: Box010 1
+    100450: Box011 1
+    100452: Box012 1
+    100454: Box013 1
+    100456: Box014 1
+    100458: Box015 1
+    100460: Box016 1
+    100462: Box017 1
+    100464: Box018 1
+    100466: Box019 1
+    100468: Box020 1
+    100470: Box022 1
+    100472: Box023
+    100474: chariot
+    100476: chariot 1
+    100478: Cylinder001
+    100480: Cylinder002
+    100482: Cylinder002 1
+    100484: Cylinder003
+    100486: Cylinder004
+    100488: Cylinder004 1
+    100490: Cylinder005
+    100492: Cylinder006
+    100494: Cylinder007
+    100496: Cylinder008
+    100498: Cylinder009
+    100500: Cylinder010
+    100502: Cylinder011
+    100504: Cylinder012
+    100506: Cylinder013
+    100508: Cylinder014
+    100510: Cylinder015
+    100512: Cylinder016
+    100514: Cylinder017
+    100516: Cylinder018
+    100518: Cylinder019
+    100520: Cylinder020
+    100522: Cylinder021
+    100524: Cylinder022
+    100526: Cylinder023
+    100528: Cylinder024
+    100530: Cylinder025
+    100532: Cylinder026
+    100534: Cylinder027
+    100536: Cylinder028
+    100538: Cylinder029
+    100540: Cylinder030
+    100542: Cylinder031
+    100544: Cylinder032
+    100546: Cylinder033
+    100548: Cylinder034
+    100550: Cylinder035
+    100552: Cylinder036
+    100554: Cylinder037
+    100556: Cylinder038
+    100558: Cylinder078
+    100560: Cylinder079
+    100562: Cylinder080
+    100564: Cylinder081
+    100566: Cylinder082
+    100568: Cylinder083
+    100570: Cylinder084
+    100572: Cylinder085
+    100574: Cylinder086
+    100576: Cylinder087
+    100578: Cylinder088
+    100580: Cylinder089
+    100582: Cylinder090
+    100584: Cylinder091
+    100586: Cylinder092
+    100588: Cylinder093
+    100590: Cylinder094
+    100592: Cylinder095
+    100594: Cylinder096
+    100596: Cylinder097
+    100598: Cylinder098
+    100600: Cylinder099
+    100602: Cylinder100
+    100604: Cylinder101
+    100606: Cylinder102
+    100608: Cylinder103
+    100610: Cylinder104
+    100612: Cylinder105
+    100614: Cylinder106
+    100616: Cylinder107
+    100618: Cylinder108
+    100620: Cylinder109
+    100622: Cylinder110
+    100624: Cylinder111
+    100626: Cylinder112
+    100628: Cylinder113
+    100630: Cylinder114
+    100632: Cylinder115
+    100634: Cylinder116
+    100636: Cylinder117
+    100638: direction
+    100640: essieux arri__re
+    100642: essieux arri__re001
+    100644: hymer
+    100646: Plane001 1
+    100648: roue
+    100650: roue001
+    100652: roue002
+    100654: roue003
+    100656: Torus001
+    100658: Torus002
+    100660: Torus003
+    100662: Tube001
+    100664: Tube002
+    100666: Tube003
+    100668: Tube004
+    400000: 1er
+    400002: 2eme
+    400004: 3eme
+    400006: //RootNode
+    400008: Box001
+    400010: Box002
+    400012: Box003
+    400014: Box004
+    400016: Box005
+    400018: Box006
+    400020: Box007
+    400022: Box008
+    400024: Box009
+    400026: Box010
+    400028: Box011
+    400030: Box012
+    400032: Box013
+    400034: Box014
+    400036: Box015
+    400038: Box016
+    400040: Box017
+    400042: Box018
+    400044: Box019
+    400046: Box020
+    400048: escalier
+    400050: escalier001
+    400052: escalier002
+    400054: escalier003
+    400056: escalier004
+    400058: escalier005
+    400060: escalier2
+    400062: Line001
+    400064: Line002
+    400066: Line003
+    400068: Line004
+    400070: Line005
+    400072: Line006
+    400074: Line007
+    400076: Line008
+    400078: Line009
+    400080: Line010
+    400082: Line011
+    400084: Line012
+    400086: Line013
+    400088: Line015
+    400090: Line016
+    400092: Line017
+    400094: Line018
+    400096: Line019
+    400098: Line020
+    400100: Line021
+    400102: Line022
+    400104: Line023
+    400106: Line024
+    400108: Line025
+    400110: Line026
+    400112: Line027
+    400114: Line028
+    400116: Line029
+    400118: Line030
+    400120: Line031
+    400122: Line032
+    400124: Line033
+    400126: Line034
+    400128: Line035
+    400130: Line036
+    400132: Line037
+    400134: Line038
+    400136: Line039
+    400138: Line040
+    400140: Line041
+    400142: Line042
+    400144: Line043
+    400146: Line044
+    400148: Line045
+    400150: Line046
+    400152: Line047
+    400154: Line048
+    400156: Line049
+    400158: Line050
+    400160: Line051
+    400162: Line052
+    400164: Line053
+    400166: Line054
+    400168: Line055
+    400170: Line056
+    400172: Line057
+    400174: Line058
+    400176: Line059
+    400178: Line061
+    400180: planch__ 3eme
+    400182: planch__ 3eme001
+    400184: planch__ 3eme002
+    400186: Plane001
+    400188: RDC
+    400190: Rectangle001
+    400192: Rectangle002
+    400194: Rectangle003
+    400196: Rectangle004
+    400198: Rectangle005
+    400200: Rectangle006
+    400202: Rectangle007
+    400204: Rectangle009
+    400206: StraightStair001
+    400208: StraightStair002
+    400210: StraightStair003
+    400212: StraightStair004
+    400214: StraightStair005
+    400216: StraightStair006
+    400218: StraightStair007
+    400220: StraightStair008
+    400222: StraightStair009
+    400224: StraightStair010
+    400226: StraightStair011
+    400228: StraightStair012
+    400230: StraightStair013
+    400232: StraightStair014
+    400234: StraightStair015
+    400236: StraightStair016
+    400238: StraightStair017
+    400240: StraightStair018
+    400242: StraightStair019
+    400244: StraightStair020
+    400246: Box021
+    400248: Box022
+    400250: coupe feux
+    400252: coupe feux001
+    400254: coupe feux002
+    400256: coupe feux003
+    400258: coupe feux004
+    400260: coupe feux005
+    400262: coupe feux006
+    400264: coupe feux007
+    400266: coupe feux008
+    400268: coupe feux009
+    400270: coupe feux010
+    400272: coupe feux011
+    400274: coupe feux012
+    400276: coupe feux013
+    400278: coupe feux014
+    400280: coupe feux015
+    400282: coupe feux016
+    400284: coupe feux017
+    400286: Line062
+    400288: Object003
+    400290: Object004
+    400292: Object005
+    400294: porte
+    400296: porte001
+    400298: porte002
+    400300: porte003
+    400302: porte004
+    400304: porte005
+    400306: porte006
+    400308: porte007
+    400310: porte008
+    400312: vitre facade
+    400314: vitre facade001
+    400316: vitre facade002
+    400318: vitre facade003
+    400320: vitre facade004
+    400322: vitre facade005
+    400324: vitre facade006
+    400326: vitre facade007
+    400328: vitre facade008
+    400330: vitre facade009
+    400332: vitre facade010
+    400334: vitre facade011
+    400336: vitre facade012
+    400338: vitre facade013
+    400340: vitre facade014
+    400342: vitre facade016
+    400344: vitre facade017
+    400346: vitre facade018
+    400348: vitre facade019
+    400350: vitre facade020
+    400352: vitre facade021
+    400354: vitre facade022
+    400356: vitre facade023
+    400358: vitre facade024
+    400360: vitre facade025
+    400362: vitre facade026
+    400364: vitre facade027
+    400366: vitre facade028
+    400368: vitre facade029
+    400370: vitre facade030
+    400372: vitre facade031
+    400374: vitre facade032
+    400376: vitre facade033
+    400378: vitre facade034
+    400380: vitre facade035
+    400382: vitre facade036
+    400384: vitre facade037
+    400386: vitre facade038
+    400388: vitre facade039
+    400390: vitre facade040
+    400392: vitre facade041
+    400394: vitre facade042
+    400396: vitre facade043
+    400398: vitre facade044
+    400400: vitre facade045
+    400402: vitre facade046
+    400404: vitre facade047
+    400406: vitre facade048
+    400408: vitre facade049
+    400410: vitre facade050
+    400412: vitre facade051
+    400414: vitre facade052
+    400416: vitre facade053
+    400418: vitre facade054
+    400420: vitre facade055
+    400422: vitre facade056
+    400424: vitre facade057
+    400426: vitre facade058
+    400428: vitre facade059
+    400430: Box001 1
+    400432: Box002 1
+    400434: Box003 1
+    400436: Box004 1
+    400438: Box005 1
+    400440: Box006 1
+    400442: Box007 1
+    400444: Box008 1
+    400446: Box009 1
+    400448: Box010 1
+    400450: Box011 1
+    400452: Box012 1
+    400454: Box013 1
+    400456: Box014 1
+    400458: Box015 1
+    400460: Box016 1
+    400462: Box017 1
+    400464: Box018 1
+    400466: Box019 1
+    400468: Box020 1
+    400470: Box022 1
+    400472: Box023
+    400474: chariot
+    400476: chariot 1
+    400478: Cylinder001
+    400480: Cylinder002
+    400482: Cylinder002 1
+    400484: Cylinder003
+    400486: Cylinder004
+    400488: Cylinder004 1
+    400490: Cylinder005
+    400492: Cylinder006
+    400494: Cylinder007
+    400496: Cylinder008
+    400498: Cylinder009
+    400500: Cylinder010
+    400502: Cylinder011
+    400504: Cylinder012
+    400506: Cylinder013
+    400508: Cylinder014
+    400510: Cylinder015
+    400512: Cylinder016
+    400514: Cylinder017
+    400516: Cylinder018
+    400518: Cylinder019
+    400520: Cylinder020
+    400522: Cylinder021
+    400524: Cylinder022
+    400526: Cylinder023
+    400528: Cylinder024
+    400530: Cylinder025
+    400532: Cylinder026
+    400534: Cylinder027
+    400536: Cylinder028
+    400538: Cylinder029
+    400540: Cylinder030
+    400542: Cylinder031
+    400544: Cylinder032
+    400546: Cylinder033
+    400548: Cylinder034
+    400550: Cylinder035
+    400552: Cylinder036
+    400554: Cylinder037
+    400556: Cylinder038
+    400558: Cylinder078
+    400560: Cylinder079
+    400562: Cylinder080
+    400564: Cylinder081
+    400566: Cylinder082
+    400568: Cylinder083
+    400570: Cylinder084
+    400572: Cylinder085
+    400574: Cylinder086
+    400576: Cylinder087
+    400578: Cylinder088
+    400580: Cylinder089
+    400582: Cylinder090
+    400584: Cylinder091
+    400586: Cylinder092
+    400588: Cylinder093
+    400590: Cylinder094
+    400592: Cylinder095
+    400594: Cylinder096
+    400596: Cylinder097
+    400598: Cylinder098
+    400600: Cylinder099
+    400602: Cylinder100
+    400604: Cylinder101
+    400606: Cylinder102
+    400608: Cylinder103
+    400610: Cylinder104
+    400612: Cylinder105
+    400614: Cylinder106
+    400616: Cylinder107
+    400618: Cylinder108
+    400620: Cylinder109
+    400622: Cylinder110
+    400624: Cylinder111
+    400626: Cylinder112
+    400628: Cylinder113
+    400630: Cylinder114
+    400632: Cylinder115
+    400634: Cylinder116
+    400636: Cylinder117
+    400638: direction
+    400640: essieux arri__re
+    400642: essieux arri__re001
+    400644: hymer
+    400646: Plane001 1
+    400648: roue
+    400650: roue001
+    400652: roue002
+    400654: roue003
+    400656: Torus001
+    400658: Torus002
+    400660: Torus003
+    400662: Tube001
+    400664: Tube002
+    400666: Tube003
+    400668: Tube004
+    2300000: Box001
+    2300002: Box002
+    2300004: Box003
+    2300006: Box004
+    2300008: Box005
+    2300010: Box006
+    2300012: Box007
+    2300014: Box008
+    2300016: Box009
+    2300018: Box010
+    2300020: Box011
+    2300022: Box012
+    2300024: Box013
+    2300026: Box014
+    2300028: Box015
+    2300030: Box016
+    2300032: Box017
+    2300034: Box018
+    2300036: Box019
+    2300038: Box020
+    2300040: Line001
+    2300042: Line002
+    2300044: Line003
+    2300046: Line004
+    2300048: Line005
+    2300050: Line006
+    2300052: Line007
+    2300054: Line008
+    2300056: Line009
+    2300058: Line010
+    2300060: Line011
+    2300062: Line012
+    2300064: Line013
+    2300066: Line015
+    2300068: Line016
+    2300070: Line017
+    2300072: Line018
+    2300074: Line019
+    2300076: Line020
+    2300078: Line021
+    2300080: Line022
+    2300082: Line023
+    2300084: Line024
+    2300086: Line025
+    2300088: Line026
+    2300090: Line027
+    2300092: Line028
+    2300094: Line029
+    2300096: Line030
+    2300098: Line031
+    2300100: Line032
+    2300102: Line033
+    2300104: Line034
+    2300106: Line035
+    2300108: Line036
+    2300110: Line037
+    2300112: Line038
+    2300114: Line039
+    2300116: Line040
+    2300118: Line041
+    2300120: Line042
+    2300122: Line043
+    2300124: Line044
+    2300126: Line045
+    2300128: Line046
+    2300130: Line047
+    2300132: Line048
+    2300134: Line049
+    2300136: Line050
+    2300138: Line051
+    2300140: Line052
+    2300142: Line053
+    2300144: Line054
+    2300146: Line055
+    2300148: Line056
+    2300150: Line057
+    2300152: Line058
+    2300154: Line059
+    2300156: planch__ 3eme
+    2300158: planch__ 3eme001
+    2300160: planch__ 3eme002
+    2300162: Plane001
+    2300164: Rectangle001
+    2300166: Rectangle003
+    2300168: Rectangle005
+    2300170: StraightStair001
+    2300172: StraightStair002
+    2300174: StraightStair003
+    2300176: StraightStair004
+    2300178: StraightStair005
+    2300180: StraightStair006
+    2300182: StraightStair007
+    2300184: StraightStair008
+    2300186: StraightStair009
+    2300188: StraightStair010
+    2300190: StraightStair011
+    2300192: StraightStair012
+    2300194: StraightStair013
+    2300196: StraightStair014
+    2300198: StraightStair015
+    2300200: StraightStair016
+    2300202: StraightStair017
+    2300204: StraightStair018
+    2300206: StraightStair019
+    2300208: StraightStair020
+    2300210: Box021
+    2300212: Box022
+    2300214: coupe feux
+    2300216: coupe feux001
+    2300218: coupe feux002
+    2300220: coupe feux003
+    2300222: coupe feux004
+    2300224: coupe feux005
+    2300226: coupe feux006
+    2300228: coupe feux007
+    2300230: coupe feux008
+    2300232: coupe feux009
+    2300234: coupe feux010
+    2300236: coupe feux011
+    2300238: coupe feux012
+    2300240: coupe feux013
+    2300242: coupe feux014
+    2300244: coupe feux015
+    2300246: coupe feux016
+    2300248: coupe feux017
+    2300250: Object003
+    2300252: Object004
+    2300254: Object005
+    2300256: vitre facade
+    2300258: vitre facade001
+    2300260: vitre facade002
+    2300262: vitre facade003
+    2300264: vitre facade004
+    2300266: vitre facade005
+    2300268: vitre facade006
+    2300270: vitre facade007
+    2300272: vitre facade008
+    2300274: vitre facade009
+    2300276: vitre facade010
+    2300278: vitre facade011
+    2300280: vitre facade012
+    2300282: vitre facade013
+    2300284: vitre facade014
+    2300286: vitre facade016
+    2300288: vitre facade017
+    2300290: vitre facade018
+    2300292: vitre facade019
+    2300294: vitre facade020
+    2300296: vitre facade021
+    2300298: vitre facade022
+    2300300: vitre facade023
+    2300302: vitre facade024
+    2300304: vitre facade025
+    2300306: vitre facade026
+    2300308: vitre facade027
+    2300310: vitre facade028
+    2300312: vitre facade029
+    2300314: vitre facade030
+    2300316: vitre facade031
+    2300318: vitre facade032
+    2300320: vitre facade033
+    2300322: vitre facade034
+    2300324: vitre facade035
+    2300326: vitre facade036
+    2300328: vitre facade037
+    2300330: vitre facade038
+    2300332: vitre facade039
+    2300334: vitre facade040
+    2300336: vitre facade041
+    2300338: vitre facade042
+    2300340: vitre facade043
+    2300342: vitre facade044
+    2300344: vitre facade045
+    2300346: vitre facade046
+    2300348: vitre facade047
+    2300350: vitre facade048
+    2300352: vitre facade049
+    2300354: vitre facade050
+    2300356: vitre facade051
+    2300358: vitre facade052
+    2300360: vitre facade053
+    2300362: vitre facade054
+    2300364: vitre facade055
+    2300366: vitre facade056
+    2300368: vitre facade057
+    2300370: vitre facade058
+    2300372: vitre facade059
+    2300374: Box001 1
+    2300376: Box002 1
+    2300378: Box003 1
+    2300380: Box004 1
+    2300382: Box005 1
+    2300384: Box006 1
+    2300386: Box007 1
+    2300388: Box008 1
+    2300390: Box009 1
+    2300392: Box010 1
+    2300394: Box011 1
+    2300396: Box012 1
+    2300398: Box013 1
+    2300400: Box014 1
+    2300402: Box015 1
+    2300404: Box016 1
+    2300406: Box017 1
+    2300408: Box018 1
+    2300410: Box019 1
+    2300412: Box020 1
+    2300414: Box022 1
+    2300416: Box023
+    2300418: Cylinder001
+    2300420: Cylinder002
+    2300422: Cylinder002 1
+    2300424: Cylinder003
+    2300426: Cylinder004
+    2300428: Cylinder004 1
+    2300430: Cylinder005
+    2300432: Cylinder006
+    2300434: Cylinder007
+    2300436: Cylinder008
+    2300438: Cylinder009
+    2300440: Cylinder010
+    2300442: Cylinder011
+    2300444: Cylinder012
+    2300446: Cylinder013
+    2300448: Cylinder014
+    2300450: Cylinder015
+    2300452: Cylinder016
+    2300454: Cylinder017
+    2300456: Cylinder018
+    2300458: Cylinder019
+    2300460: Cylinder020
+    2300462: Cylinder021
+    2300464: Cylinder022
+    2300466: Cylinder023
+    2300468: Cylinder024
+    2300470: Cylinder025
+    2300472: Cylinder026
+    2300474: Cylinder027
+    2300476: Cylinder028
+    2300478: Cylinder029
+    2300480: Cylinder030
+    2300482: Cylinder031
+    2300484: Cylinder032
+    2300486: Cylinder033
+    2300488: Cylinder034
+    2300490: Cylinder035
+    2300492: Cylinder036
+    2300494: Cylinder037
+    2300496: Cylinder038
+    2300498: Cylinder078
+    2300500: Cylinder079
+    2300502: Cylinder080
+    2300504: Cylinder081
+    2300506: Cylinder082
+    2300508: Cylinder083
+    2300510: Cylinder084
+    2300512: Cylinder085
+    2300514: Cylinder086
+    2300516: Cylinder087
+    2300518: Cylinder088
+    2300520: Cylinder089
+    2300522: Cylinder090
+    2300524: Cylinder091
+    2300526: Cylinder092
+    2300528: Cylinder093
+    2300530: Cylinder094
+    2300532: Cylinder095
+    2300534: Cylinder096
+    2300536: Cylinder097
+    2300538: Cylinder098
+    2300540: Cylinder099
+    2300542: Cylinder100
+    2300544: Cylinder101
+    2300546: Cylinder102
+    2300548: Cylinder103
+    2300550: Cylinder104
+    2300552: Cylinder105
+    2300554: Cylinder106
+    2300556: Cylinder107
+    2300558: Cylinder108
+    2300560: Cylinder109
+    2300562: Cylinder110
+    2300564: Cylinder111
+    2300566: Cylinder112
+    2300568: Cylinder113
+    2300570: Cylinder114
+    2300572: Cylinder115
+    2300574: Cylinder116
+    2300576: Cylinder117
+    2300578: hymer
+    2300580: Plane001 1
+    2300582: Torus001
+    2300584: Torus002
+    2300586: Torus003
+    2300588: Tube001
+    2300590: Tube002
+    2300592: Tube003
+    2300594: Tube004
+    3300000: Box001
+    3300002: Box002
+    3300004: Box003
+    3300006: Box004
+    3300008: Box005
+    3300010: Box006
+    3300012: Box007
+    3300014: Box008
+    3300016: Box009
+    3300018: Box010
+    3300020: Box011
+    3300022: Box012
+    3300024: Box013
+    3300026: Box014
+    3300028: Box015
+    3300030: Box016
+    3300032: Box017
+    3300034: Box018
+    3300036: Box019
+    3300038: Box020
+    3300040: Line001
+    3300042: Line002
+    3300044: Line003
+    3300046: Line004
+    3300048: Line005
+    3300050: Line006
+    3300052: Line007
+    3300054: Line008
+    3300056: Line009
+    3300058: Line010
+    3300060: Line011
+    3300062: Line012
+    3300064: Line013
+    3300066: Line015
+    3300068: Line016
+    3300070: Line017
+    3300072: Line018
+    3300074: Line019
+    3300076: Line020
+    3300078: Line021
+    3300080: Line022
+    3300082: Line023
+    3300084: Line024
+    3300086: Line025
+    3300088: Line026
+    3300090: Line027
+    3300092: Line028
+    3300094: Line029
+    3300096: Line030
+    3300098: Line031
+    3300100: Line032
+    3300102: Line033
+    3300104: Line034
+    3300106: Line035
+    3300108: Line036
+    3300110: Line037
+    3300112: Line038
+    3300114: Line039
+    3300116: Line040
+    3300118: Line041
+    3300120: Line042
+    3300122: Line043
+    3300124: Line044
+    3300126: Line045
+    3300128: Line046
+    3300130: Line047
+    3300132: Line048
+    3300134: Line049
+    3300136: Line050
+    3300138: Line051
+    3300140: Line052
+    3300142: Line053
+    3300144: Line054
+    3300146: Line055
+    3300148: Line056
+    3300150: Line057
+    3300152: Line058
+    3300154: Line059
+    3300156: planch__ 3eme
+    3300158: planch__ 3eme001
+    3300160: planch__ 3eme002
+    3300162: Plane001
+    3300164: Rectangle001
+    3300166: Rectangle003
+    3300168: Rectangle005
+    3300170: StraightStair001
+    3300172: StraightStair002
+    3300174: StraightStair003
+    3300176: StraightStair004
+    3300178: StraightStair005
+    3300180: StraightStair006
+    3300182: StraightStair007
+    3300184: StraightStair008
+    3300186: StraightStair009
+    3300188: StraightStair010
+    3300190: StraightStair011
+    3300192: StraightStair012
+    3300194: StraightStair013
+    3300196: StraightStair014
+    3300198: StraightStair015
+    3300200: StraightStair016
+    3300202: StraightStair017
+    3300204: StraightStair018
+    3300206: StraightStair019
+    3300208: StraightStair020
+    3300210: Box021
+    3300212: Box022
+    3300214: coupe feux
+    3300216: coupe feux001
+    3300218: coupe feux002
+    3300220: coupe feux003
+    3300222: coupe feux004
+    3300224: coupe feux005
+    3300226: coupe feux006
+    3300228: coupe feux007
+    3300230: coupe feux008
+    3300232: coupe feux009
+    3300234: coupe feux010
+    3300236: coupe feux011
+    3300238: coupe feux012
+    3300240: coupe feux013
+    3300242: coupe feux014
+    3300244: coupe feux015
+    3300246: coupe feux016
+    3300248: coupe feux017
+    3300250: Object003
+    3300252: Object004
+    3300254: Object005
+    3300256: vitre facade
+    3300258: vitre facade001
+    3300260: vitre facade002
+    3300262: vitre facade003
+    3300264: vitre facade004
+    3300266: vitre facade005
+    3300268: vitre facade006
+    3300270: vitre facade007
+    3300272: vitre facade008
+    3300274: vitre facade009
+    3300276: vitre facade010
+    3300278: vitre facade011
+    3300280: vitre facade012
+    3300282: vitre facade013
+    3300284: vitre facade014
+    3300286: vitre facade016
+    3300288: vitre facade017
+    3300290: vitre facade018
+    3300292: vitre facade019
+    3300294: vitre facade020
+    3300296: vitre facade021
+    3300298: vitre facade022
+    3300300: vitre facade023
+    3300302: vitre facade024
+    3300304: vitre facade025
+    3300306: vitre facade026
+    3300308: vitre facade027
+    3300310: vitre facade028
+    3300312: vitre facade029
+    3300314: vitre facade030
+    3300316: vitre facade031
+    3300318: vitre facade032
+    3300320: vitre facade033
+    3300322: vitre facade034
+    3300324: vitre facade035
+    3300326: vitre facade036
+    3300328: vitre facade037
+    3300330: vitre facade038
+    3300332: vitre facade039
+    3300334: vitre facade040
+    3300336: vitre facade041
+    3300338: vitre facade042
+    3300340: vitre facade043
+    3300342: vitre facade044
+    3300344: vitre facade045
+    3300346: vitre facade046
+    3300348: vitre facade047
+    3300350: vitre facade048
+    3300352: vitre facade049
+    3300354: vitre facade050
+    3300356: vitre facade051
+    3300358: vitre facade052
+    3300360: vitre facade053
+    3300362: vitre facade054
+    3300364: vitre facade055
+    3300366: vitre facade056
+    3300368: vitre facade057
+    3300370: vitre facade058
+    3300372: vitre facade059
+    3300374: Box001 1
+    3300376: Box002 1
+    3300378: Box003 1
+    3300380: Box004 1
+    3300382: Box005 1
+    3300384: Box006 1
+    3300386: Box007 1
+    3300388: Box008 1
+    3300390: Box009 1
+    3300392: Box010 1
+    3300394: Box011 1
+    3300396: Box012 1
+    3300398: Box013 1
+    3300400: Box014 1
+    3300402: Box015 1
+    3300404: Box016 1
+    3300406: Box017 1
+    3300408: Box018 1
+    3300410: Box019 1
+    3300412: Box020 1
+    3300414: Box022 1
+    3300416: Box023
+    3300418: Cylinder001
+    3300420: Cylinder002
+    3300422: Cylinder002 1
+    3300424: Cylinder003
+    3300426: Cylinder004
+    3300428: Cylinder004 1
+    3300430: Cylinder005
+    3300432: Cylinder006
+    3300434: Cylinder007
+    3300436: Cylinder008
+    3300438: Cylinder009
+    3300440: Cylinder010
+    3300442: Cylinder011
+    3300444: Cylinder012
+    3300446: Cylinder013
+    3300448: Cylinder014
+    3300450: Cylinder015
+    3300452: Cylinder016
+    3300454: Cylinder017
+    3300456: Cylinder018
+    3300458: Cylinder019
+    3300460: Cylinder020
+    3300462: Cylinder021
+    3300464: Cylinder022
+    3300466: Cylinder023
+    3300468: Cylinder024
+    3300470: Cylinder025
+    3300472: Cylinder026
+    3300474: Cylinder027
+    3300476: Cylinder028
+    3300478: Cylinder029
+    3300480: Cylinder030
+    3300482: Cylinder031
+    3300484: Cylinder032
+    3300486: Cylinder033
+    3300488: Cylinder034
+    3300490: Cylinder035
+    3300492: Cylinder036
+    3300494: Cylinder037
+    3300496: Cylinder038
+    3300498: Cylinder078
+    3300500: Cylinder079
+    3300502: Cylinder080
+    3300504: Cylinder081
+    3300506: Cylinder082
+    3300508: Cylinder083
+    3300510: Cylinder084
+    3300512: Cylinder085
+    3300514: Cylinder086
+    3300516: Cylinder087
+    3300518: Cylinder088
+    3300520: Cylinder089
+    3300522: Cylinder090
+    3300524: Cylinder091
+    3300526: Cylinder092
+    3300528: Cylinder093
+    3300530: Cylinder094
+    3300532: Cylinder095
+    3300534: Cylinder096
+    3300536: Cylinder097
+    3300538: Cylinder098
+    3300540: Cylinder099
+    3300542: Cylinder100
+    3300544: Cylinder101
+    3300546: Cylinder102
+    3300548: Cylinder103
+    3300550: Cylinder104
+    3300552: Cylinder105
+    3300554: Cylinder106
+    3300556: Cylinder107
+    3300558: Cylinder108
+    3300560: Cylinder109
+    3300562: Cylinder110
+    3300564: Cylinder111
+    3300566: Cylinder112
+    3300568: Cylinder113
+    3300570: Cylinder114
+    3300572: Cylinder115
+    3300574: Cylinder116
+    3300576: Cylinder117
+    3300578: hymer
+    3300580: Plane001 1
+    3300582: Torus001
+    3300584: Torus002
+    3300586: Torus003
+    3300588: Tube001
+    3300590: Tube002
+    3300592: Tube003
+    3300594: Tube004
+    4300000: Line013
+    4300002: Line027
+    4300004: Rectangle001
+    4300006: Line004
+    4300008: Line026
+    4300010: Line006
+    4300012: Line007
+    4300014: Line011
+    4300016: Line012
+    4300018: Line028
+    4300020: Line015
+    4300022: Line016
+    4300024: Line025
+    4300026: Line022
+    4300028: Line023
+    4300030: Line020
+    4300032: Line005
+    4300034: Line002
+    4300036: Line001
+    4300038: Line024
+    4300040: Line029
+    4300042: Line030
+    4300044: Rectangle003
+    4300046: Line031
+    4300048: Line032
+    4300050: Line033
+    4300052: Line034
+    4300054: Line010
+    4300056: Line035
+    4300058: Line036
+    4300060: Line037
+    4300062: Line038
+    4300064: Line039
+    4300066: Line017
+    4300068: Line018
+    4300070: Line019
+    4300072: Line040
+    4300074: Line021
+    4300076: Line041
+    4300078: Line042
+    4300080: Rectangle005
+    4300082: Line003
+    4300084: Line043
+    4300086: Line044
+    4300088: Line045
+    4300090: Line046
+    4300092: Line008
+    4300094: Line009
+    4300096: Line047
+    4300098: Line048
+    4300100: Line049
+    4300102: Line050
+    4300104: Plane001
+    4300106: Line051
+    4300108: Line052
+    4300110: Line053
+    4300112: Line054
+    4300114: Line055
+    4300116: Line056
+    4300118: Line057
+    4300120: Line058
+    4300122: Line059
+    4300124: planch__ 3eme
+    4300126: StraightStair001
+    4300128: Box001
+    4300130: StraightStair002
+    4300132: Box002
+    4300134: StraightStair003
+    4300136: Box003
+    4300138: StraightStair004
+    4300140: Box004
+    4300142: StraightStair005
+    4300144: Box005
+    4300146: StraightStair006
+    4300148: Box006
+    4300150: StraightStair007
+    4300152: Box007
+    4300154: StraightStair008
+    4300156: Box008
+    4300158: Box012
+    4300160: Box011
+    4300162: StraightStair012
+    4300164: Box010
+    4300166: StraightStair011
+    4300168: Box009
+    4300170: StraightStair010
+    4300172: StraightStair009
+    4300174: Box014
+    4300176: StraightStair014
+    4300178: Box013
+    4300180: StraightStair013
+    4300182: Box015
+    4300184: StraightStair015
+    4300186: Box016
+    4300188: StraightStair016
+    4300190: Box017
+    4300192: StraightStair017
+    4300194: Box018
+    4300196: StraightStair018
+    4300198: Box019
+    4300200: StraightStair019
+    4300202: Box020
+    4300204: StraightStair020
+    4300206: planch__ 3eme001
+    4300208: planch__ 3eme002
+    4300210: Object003
+    4300212: Object004
+    4300214: Object005
+    4300216: coupe feux001
+    4300218: coupe feux
+    4300220: vitre facade
+    4300222: vitre facade001
+    4300224: vitre facade002
+    4300226: vitre facade003
+    4300228: vitre facade004
+    4300230: vitre facade005
+    4300232: vitre facade006
+    4300234: vitre facade007
+    4300236: vitre facade008
+    4300238: vitre facade009
+    4300240: vitre facade010
+    4300242: vitre facade011
+    4300244: vitre facade012
+    4300246: vitre facade013
+    4300248: vitre facade014
+    4300250: vitre facade016
+    4300252: vitre facade017
+    4300254: vitre facade018
+    4300256: vitre facade019
+    4300258: vitre facade020
+    4300260: vitre facade021
+    4300262: vitre facade022
+    4300264: vitre facade023
+    4300266: vitre facade024
+    4300268: vitre facade025
+    4300270: vitre facade026
+    4300272: vitre facade027
+    4300274: vitre facade028
+    4300276: coupe feux002
+    4300278: coupe feux003
+    4300280: vitre facade029
+    4300282: coupe feux004
+    4300284: coupe feux005
+    4300286: coupe feux006
+    4300288: coupe feux007
+    4300290: vitre facade030
+    4300292: vitre facade031
+    4300294: vitre facade032
+    4300296: vitre facade033
+    4300298: coupe feux008
+    4300300: coupe feux009
+    4300302: coupe feux010
+    4300304: coupe feux011
+    4300306: coupe feux012
+    4300308: coupe feux013
+    4300310: coupe feux014
+    4300312: coupe feux015
+    4300314: coupe feux016
+    4300316: coupe feux017
+    4300318: Box021
+    4300320: Box022
+    4300322: vitre facade034
+    4300324: vitre facade035
+    4300326: vitre facade036
+    4300328: vitre facade037
+    4300330: vitre facade038
+    4300332: vitre facade039
+    4300334: vitre facade040
+    4300336: vitre facade041
+    4300338: vitre facade042
+    4300340: vitre facade043
+    4300342: vitre facade044
+    4300344: vitre facade045
+    4300346: vitre facade046
+    4300348: vitre facade047
+    4300350: vitre facade048
+    4300352: vitre facade049
+    4300354: vitre facade050
+    4300356: vitre facade051
+    4300358: vitre facade052
+    4300360: vitre facade053
+    4300362: vitre facade054
+    4300364: vitre facade055
+    4300366: vitre facade056
+    4300368: vitre facade057
+    4300370: vitre facade058
+    4300372: vitre facade059
+    4300374: Cylinder002
+    4300376: Box023
+    4300378: Cylinder078
+    4300380: Box022
+    4300382: Box001
+    4300384: Box002
+    4300386: Box003
+    4300388: Box004
+    4300390: Box005
+    4300392: Box006
+    4300394: Box007
+    4300396: Box008
+    4300398: Box009
+    4300400: Box010
+    4300402: Box011
+    4300404: Box012
+    4300406: Box013
+    4300408: Box014
+    4300410: Box015
+    4300412: Box016
+    4300414: Box017
+    4300416: Box018
+    4300418: Box019
+    4300420: Torus001
+    4300422: Torus002
+    4300424: Box020
+    4300426: Plane001
+    4300428: Torus003
+    4300430: Cylinder079
+    4300432: Cylinder080
+    4300434: Cylinder081
+    4300436: Cylinder082
+    4300438: Cylinder083
+    4300440: Cylinder084
+    4300442: Cylinder085
+    4300444: Cylinder086
+    4300446: Cylinder087
+    4300448: Cylinder088
+    4300450: Cylinder089
+    4300452: Cylinder090
+    4300454: Cylinder091
+    4300456: Cylinder092
+    4300458: Cylinder093
+    4300460: Cylinder094
+    4300462: Cylinder095
+    4300464: Cylinder096
+    4300466: Cylinder097
+    4300468: Tube003
+    4300470: Cylinder098
+    4300472: Cylinder099
+    4300474: Cylinder100
+    4300476: Cylinder101
+    4300478: Cylinder102
+    4300480: Cylinder103
+    4300482: Cylinder104
+    4300484: Cylinder105
+    4300486: Cylinder106
+    4300488: Cylinder107
+    4300490: Cylinder108
+    4300492: Cylinder109
+    4300494: Cylinder110
+    4300496: Cylinder111
+    4300498: Cylinder112
+    4300500: Cylinder113
+    4300502: Cylinder114
+    4300504: Cylinder115
+    4300506: Cylinder116
+    4300508: Tube004
+    4300510: Cylinder117
+    4300512: Cylinder020
+    4300514: Cylinder021
+    4300516: Cylinder022
+    4300518: Cylinder023
+    4300520: Cylinder024
+    4300522: Cylinder025
+    4300524: Cylinder026
+    4300526: Cylinder027
+    4300528: Cylinder028
+    4300530: Cylinder029
+    4300532: Cylinder030
+    4300534: Cylinder031
+    4300536: Cylinder032
+    4300538: Cylinder033
+    4300540: Cylinder034
+    4300542: Cylinder035
+    4300544: Cylinder036
+    4300546: Cylinder037
+    4300548: Cylinder038
+    4300550: Tube002
+    4300552: Cylinder001
+    4300554: Cylinder002
+    4300556: Cylinder003
+    4300558: Cylinder004
+    4300560: Cylinder005
+    4300562: Cylinder006
+    4300564: Cylinder007
+    4300566: Cylinder008
+    4300568: Cylinder009
+    4300570: Cylinder010
+    4300572: Cylinder011
+    4300574: Cylinder012
+    4300576: Cylinder013
+    4300578: Cylinder018
+    4300580: Cylinder014
+    4300582: Cylinder015
+    4300584: Cylinder016
+    4300586: Cylinder017
+    4300588: Cylinder019
+    4300590: Tube001
+    4300592: Cylinder004
+    4300594: hymer
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,4307 @@
+fileFormatVersion: 2
+guid: 25dde4dd37c57e04f84f870f481d5bbf
+timeCreated: 1426420765
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: 1er
+    100002: 2eme
+    100004: 3eme
+    100006: 4eme
+    100008: //RootNode
+    100010: Box001
+    100012: Box002
+    100014: Box003
+    100016: Box004
+    100018: Box005
+    100020: cafet
+    100022: CasementWindow001
+    100024: CasementWindow002
+    100026: CasementWindow003
+    100028: CasementWindow004
+    100030: CasementWindow005
+    100032: CasementWindow006
+    100034: CasementWindow007
+    100036: Compass001
+    100038: Compass001 1
+    100040: Cylinder001
+    100042: Cylinder001 1
+    100044: Cylinder001 2
+    100046: Cylinder001 3
+    100048: Cylinder001 4
+    100050: Cylinder002
+    100052: Cylinder002 1
+    100054: Cylinder002 2
+    100056: Cylinder002 3
+    100058: Cylinder002 4
+    100060: Cylinder003
+    100062: Cylinder003 1
+    100064: Cylinder003 2
+    100066: Cylinder003 3
+    100068: Cylinder003 4
+    100070: Cylinder004
+    100072: Cylinder004 1
+    100074: Cylinder004 2
+    100076: Cylinder004 3
+    100078: Cylinder004 4
+    100080: Cylinder005
+    100082: Cylinder005 1
+    100084: Cylinder005 2
+    100086: Cylinder005 3
+    100088: Cylinder005 4
+    100090: Cylinder006
+    100092: Cylinder006 1
+    100094: Cylinder006 2
+    100096: Cylinder006 3
+    100098: Cylinder006 4
+    100100: Cylinder007
+    100102: Cylinder007 1
+    100104: Cylinder007 2
+    100106: Cylinder007 3
+    100108: Cylinder007 4
+    100110: Cylinder008
+    100112: Cylinder008 1
+    100114: Cylinder008 2
+    100116: Cylinder008 3
+    100118: Cylinder008 4
+    100120: Cylinder009
+    100122: Cylinder009 1
+    100124: Cylinder009 2
+    100126: Cylinder009 3
+    100128: Cylinder009 4
+    100130: Cylinder010
+    100132: Cylinder010 1
+    100134: Cylinder010 2
+    100136: Cylinder010 3
+    100138: Cylinder010 4
+    100140: Cylinder011
+    100142: Cylinder012
+    100144: Cylinder012 1
+    100146: Cylinder012 2
+    100148: Cylinder012 3
+    100150: Cylinder012 4
+    100152: Cylinder013
+    100154: Cylinder014
+    100156: Cylinder015
+    100158: Cylinder016
+    100160: Cylinder016 1
+    100162: Cylinder016 2
+    100164: Cylinder016 3
+    100166: Cylinder016 4
+    100168: Cylinder017
+    100170: Cylinder017 1
+    100172: Cylinder017 2
+    100174: Cylinder017 3
+    100176: Cylinder017 4
+    100178: Cylinder018
+    100180: Cylinder018 1
+    100182: Cylinder018 2
+    100184: Cylinder018 3
+    100186: Cylinder018 4
+    100188: Cylinder019
+    100190: Cylinder019 1
+    100192: Cylinder019 2
+    100194: Cylinder019 3
+    100196: Cylinder019 4
+    100198: Cylinder020
+    100200: Cylinder020 1
+    100202: Cylinder020 2
+    100204: Cylinder020 3
+    100206: Cylinder020 4
+    100208: Cylinder021
+    100210: Cylinder021 1
+    100212: Cylinder021 2
+    100214: Cylinder021 3
+    100216: Cylinder021 4
+    100218: Cylinder022
+    100220: Cylinder022 1
+    100222: Cylinder022 2
+    100224: Cylinder022 3
+    100226: Cylinder022 4
+    100228: Cylinder023
+    100230: Cylinder024
+    100232: Cylinder025
+    100234: Cylinder026
+    100236: Cylinder027
+    100238: Cylinder027 1
+    100240: Cylinder027 2
+    100242: Cylinder027 3
+    100244: Cylinder027 4
+    100246: Cylinder028
+    100248: Cylinder028 1
+    100250: Cylinder028 2
+    100252: Cylinder028 3
+    100254: Cylinder028 4
+    100256: Cylinder029
+    100258: Cylinder029 1
+    100260: Cylinder029 2
+    100262: Cylinder029 3
+    100264: Cylinder029 4
+    100266: Cylinder030
+    100268: Cylinder030 1
+    100270: Cylinder030 2
+    100272: Cylinder030 3
+    100274: Cylinder030 4
+    100276: Cylinder031
+    100278: Cylinder031 1
+    100280: Cylinder031 2
+    100282: Cylinder031 3
+    100284: Cylinder032
+    100286: Cylinder032 1
+    100288: Cylinder032 2
+    100290: Cylinder033
+    100292: Cylinder033 1
+    100294: Cylinder033 2
+    100296: Cylinder033 3
+    100298: Cylinder034
+    100300: Cylinder034 1
+    100302: Cylinder034 2
+    100304: Cylinder034 3
+    100306: Cylinder035
+    100308: Cylinder035 1
+    100310: Cylinder035 2
+    100312: Cylinder035 3
+    100314: Cylinder036
+    100316: Cylinder036 1
+    100318: Cylinder036 2
+    100320: Cylinder036 3
+    100322: Cylinder036 4
+    100324: Cylinder037
+    100326: Cylinder037 1
+    100328: Cylinder037 2
+    100330: Cylinder037 3
+    100332: Cylinder037 4
+    100334: Cylinder038
+    100336: Cylinder038 1
+    100338: Cylinder038 2
+    100340: Cylinder038 3
+    100342: Cylinder038 4
+    100344: Cylinder039
+    100346: Cylinder039 1
+    100348: Cylinder039 2
+    100350: Cylinder039 3
+    100352: Cylinder039 4
+    100354: Cylinder040
+    100356: Cylinder040 1
+    100358: Cylinder040 2
+    100360: Cylinder040 3
+    100362: Cylinder040 4
+    100364: Cylinder041
+    100366: Cylinder041 1
+    100368: Cylinder041 2
+    100370: Cylinder041 3
+    100372: Cylinder042
+    100374: Cylinder042 1
+    100376: Cylinder042 2
+    100378: Cylinder042 3
+    100380: Cylinder042 4
+    100382: Cylinder043
+    100384: Cylinder043 1
+    100386: Cylinder043 2
+    100388: Cylinder043 3
+    100390: Cylinder044
+    100392: Cylinder044 1
+    100394: Cylinder044 2
+    100396: Cylinder044 3
+    100398: Cylinder045
+    100400: Cylinder045 1
+    100402: Cylinder045 2
+    100404: Cylinder045 3
+    100406: Cylinder046
+    100408: Cylinder046 1
+    100410: Cylinder046 2
+    100412: Cylinder046 3
+    100414: Cylinder047
+    100416: Cylinder047 1
+    100418: Cylinder047 2
+    100420: Cylinder047 3
+    100422: Cylinder047 4
+    100424: Cylinder048
+    100426: Cylinder048 1
+    100428: Cylinder048 2
+    100430: Cylinder048 3
+    100432: Cylinder048 4
+    100434: Cylinder049
+    100436: Cylinder049 1
+    100438: Cylinder049 2
+    100440: Cylinder049 3
+    100442: Cylinder049 4
+    100444: Cylinder050
+    100446: Cylinder050 1
+    100448: Cylinder050 2
+    100450: Cylinder050 3
+    100452: Cylinder051
+    100454: Cylinder051 1
+    100456: Cylinder051 2
+    100458: Cylinder051 3
+    100460: Cylinder052
+    100462: Cylinder052 1
+    100464: Cylinder052 2
+    100466: Cylinder052 3
+    100468: Cylinder053
+    100470: Cylinder053 1
+    100472: Cylinder053 2
+    100474: Cylinder054
+    100476: Cylinder054 1
+    100478: Cylinder054 2
+    100480: Cylinder055
+    100482: Cylinder055 1
+    100484: Cylinder055 2
+    100486: Cylinder056
+    100488: Cylinder057
+    100490: Daylight001
+    100492: Daylight001 1
+    100494: facade
+    100496: facade2
+    100498: facade3
+    100500: FixedWindow001
+    100502: FixedWindow002
+    100504: FixedWindow002 1
+    100506: FixedWindow003
+    100508: FixedWindow003 1
+    100510: FixedWindow003 2
+    100512: FixedWindow004
+    100514: FixedWindow004 1
+    100516: FixedWindow004 2
+    100518: FixedWindow005
+    100520: FixedWindow005 1
+    100522: FixedWindow005 2
+    100524: FixedWindow006
+    100526: FixedWindow006 1
+    100528: FixedWindow006 2
+    100530: FixedWindow007
+    100532: FixedWindow007 1
+    100534: FixedWindow007 2
+    100536: FixedWindow008
+    100538: FixedWindow008 1
+    100540: FixedWindow008 2
+    100542: FixedWindow009
+    100544: FixedWindow009 1
+    100546: FixedWindow009 2
+    100548: FixedWindow010
+    100550: FixedWindow010 1
+    100552: FixedWindow010 2
+    100554: FixedWindow011
+    100556: FixedWindow011 1
+    100558: FixedWindow011 2
+    100560: FixedWindow012
+    100562: FixedWindow012 1
+    100564: FixedWindow012 2
+    100566: FixedWindow013
+    100568: FixedWindow013 1
+    100570: FixedWindow013 2
+    100572: FixedWindow014
+    100574: FixedWindow014 1
+    100576: FixedWindow014 2
+    100578: FixedWindow015
+    100580: FixedWindow015 1
+    100582: FixedWindow015 2
+    100584: FixedWindow016
+    100586: FixedWindow016 1
+    100588: FixedWindow016 2
+    100590: FixedWindow017
+    100592: FixedWindow017 1
+    100594: FixedWindow017 2
+    100596: FixedWindow018
+    100598: FixedWindow018 1
+    100600: FixedWindow018 2
+    100602: FixedWindow019
+    100604: FixedWindow019 1
+    100606: FixedWindow019 2
+    100608: FixedWindow020
+    100610: FixedWindow020 1
+    100612: FixedWindow020 2
+    100614: FixedWindow021
+    100616: FixedWindow021 1
+    100618: FixedWindow021 2
+    100620: FixedWindow022
+    100622: FixedWindow022 1
+    100624: FixedWindow022 2
+    100626: FixedWindow023
+    100628: FixedWindow023 1
+    100630: FixedWindow023 2
+    100632: FixedWindow024
+    100634: FixedWindow024 1
+    100636: FixedWindow024 2
+    100638: FixedWindow025
+    100640: FixedWindow025 1
+    100642: FixedWindow025 2
+    100644: FixedWindow026
+    100646: FixedWindow026 1
+    100648: FixedWindow026 2
+    100650: FixedWindow027
+    100652: FixedWindow027 1
+    100654: FixedWindow027 2
+    100656: FixedWindow028
+    100658: FixedWindow028 1
+    100660: FixedWindow028 2
+    100662: FixedWindow029
+    100664: FixedWindow029 1
+    100666: FixedWindow029 2
+    100668: FixedWindow030
+    100670: FixedWindow030 1
+    100672: FixedWindow030 2
+    100674: FixedWindow031
+    100676: FixedWindow031 1
+    100678: FixedWindow031 2
+    100680: FixedWindow032
+    100682: FixedWindow032 1
+    100684: FixedWindow032 2
+    100686: FixedWindow033
+    100688: FixedWindow033 1
+    100690: FixedWindow033 2
+    100692: FixedWindow034
+    100694: FixedWindow034 1
+    100696: FixedWindow034 2
+    100698: FixedWindow035
+    100700: FixedWindow035 1
+    100702: FixedWindow035 2
+    100704: FixedWindow036
+    100706: FixedWindow036 1
+    100708: FixedWindow036 2
+    100710: FixedWindow037
+    100712: FixedWindow037 1
+    100714: FixedWindow038
+    100716: FixedWindow038 1
+    100718: FixedWindow039
+    100720: FixedWindow039 1
+    100722: FixedWindow040
+    100724: FixedWindow040 1
+    100726: FixedWindow041
+    100728: FixedWindow041 1
+    100730: FixedWindow042
+    100732: FixedWindow042 1
+    100734: FixedWindow043
+    100736: FixedWindow043 1
+    100738: FixedWindow044
+    100740: FixedWindow044 1
+    100742: FixedWindow045
+    100744: FixedWindow045 1
+    100746: FixedWindow046
+    100748: FixedWindow046 1
+    100750: FixedWindow047
+    100752: FixedWindow047 1
+    100754: FixedWindow048
+    100756: FixedWindow048 1
+    100758: FixedWindow049
+    100760: FixedWindow050
+    100762: FixedWindow051
+    100764: FixedWindow052
+    100766: FixedWindow053
+    100768: FixedWindow054
+    100770: FixedWindow055
+    100772: FixedWindow056
+    100774: FixedWindow057
+    100776: FixedWindow058
+    100778: FixedWindow059
+    100780: FixedWindow060
+    100782: FixedWindow061
+    100784: FixedWindow062
+    100786: FixedWindow063
+    100788: FixedWindow064
+    100790: FixedWindow065
+    100792: FixedWindow066
+    100794: FixedWindow067
+    100796: FixedWindow068
+    100798: FixedWindow069
+    100800: FixedWindow070
+    100802: FixedWindow071
+    100804: FixedWindow072
+    100806: FixedWindow073
+    100808: FixedWindow074
+    100810: FixedWindow075
+    100812: FixedWindow076
+    100814: FixedWindow077
+    100816: FixedWindow078
+    100818: FixedWindow079
+    100820: FixedWindow080
+    100822: FixedWindow081
+    100824: FixedWindow082
+    100826: FixedWindow083
+    100828: FixedWindow084
+    100830: FixedWindow085
+    100832: FixedWindow086
+    100834: FixedWindow087
+    100836: FixedWindow088
+    100838: FixedWindow089
+    100840: FixedWindow090
+    100842: FixedWindow091
+    100844: FixedWindow092
+    100846: FixedWindow093
+    100848: FixedWindow094
+    100850: FixedWindow095
+    100852: FixedWindow096
+    100854: FixedWindow097
+    100856: FixedWindow098
+    100858: FixedWindow099
+    100860: FixedWindow100
+    100862: FixedWindow101
+    100864: FixedWindow102
+    100866: FixedWindow103
+    100868: FixedWindow104
+    100870: FixedWindow105
+    100872: FixedWindow106
+    100874: FixedWindow107
+    100876: FixedWindow108
+    100878: FixedWindow109
+    100880: FixedWindow110
+    100882: FixedWindow111
+    100884: FixedWindow112
+    100886: FixedWindow113
+    100888: FixedWindow114
+    100890: FixedWindow115
+    100892: FixedWindow116
+    100894: FixedWindow117
+    100896: FixedWindow118
+    100898: FixedWindow119
+    100900: FixedWindow120
+    100902: FixedWindow121
+    100904: FixedWindow122
+    100906: FixedWindow123
+    100908: FixedWindow124
+    100910: FixedWindow125
+    100912: FixedWindow126
+    100914: FixedWindow127
+    100916: FixedWindow128
+    100918: FixedWindow129
+    100920: FixedWindow130
+    100922: FixedWindow131
+    100924: FixedWindow132
+    100926: FixedWindow133
+    100928: FixedWindow134
+    100930: FixedWindow135
+    100932: FixedWindow136
+    100934: FixedWindow137
+    100936: FixedWindow138
+    100938: FixedWindow139
+    100940: FixedWindow140
+    100942: FixedWindow141
+    100944: FixedWindow142
+    100946: FixedWindow143
+    100948: FixedWindow144
+    100950: FixedWindow145
+    100952: FixedWindow146
+    100954: FixedWindow147
+    100956: FixedWindow148
+    100958: FixedWindow149
+    100960: FixedWindow150
+    100962: FixedWindow151
+    100964: FixedWindow152
+    100966: FixedWindow153
+    100968: FixedWindow154
+    100970: FixedWindow155
+    100972: FixedWindow156
+    100974: FixedWindow157
+    100976: FixedWindow158
+    100978: FixedWindow159
+    100980: FixedWindow160
+    100982: FixedWindow161
+    100984: FixedWindow162
+    100986: FixedWindow163
+    100988: FixedWindow164
+    100990: FixedWindow165
+    100992: FixedWindow166
+    100994: FixedWindow167
+    100996: FixedWindow168
+    100998: FixedWindow169
+    101000: FixedWindow170
+    101002: FixedWindow171
+    101004: FixedWindow172
+    101006: FixedWindow173
+    101008: FixedWindow174
+    101010: FixedWindow175
+    101012: FixedWindow176
+    101014: FixedWindow177
+    101016: FixedWindow178
+    101018: FixedWindow179
+    101020: FixedWindow180
+    101022: FixedWindow181
+    101024: FixedWindow182
+    101026: FixedWindow183
+    101028: FixedWindow184
+    101030: FixedWindow185
+    101032: FixedWindow186
+    101034: FixedWindow187
+    101036: FixedWindow188
+    101038: FixedWindow189
+    101040: FixedWindow190
+    101042: FixedWindow191
+    101044: FixedWindow192
+    101046: FixedWindow193
+    101048: FixedWindow194
+    101050: Line001
+    101052: Line001 1
+    101054: Line001 2
+    101056: Line001 3
+    101058: Line001 4
+    101060: Line002
+    101062: Line002 1
+    101064: Line002 2
+    101066: Line003
+    101068: Line003 1
+    101070: Line003 2
+    101072: Line004
+    101074: Line004 1
+    101076: Line004 2
+    101078: Line005
+    101080: Line005 1
+    101082: Line005 2
+    101084: Line006
+    101086: Line006 1
+    101088: Line006 2
+    101090: Line007
+    101092: Line007 1
+    101094: Line007 2
+    101096: Line008
+    101098: Line008 1
+    101100: Line008 2
+    101102: Line009
+    101104: Line009 1
+    101106: Line009 2
+    101108: Line009 3
+    101110: Line010
+    101112: Line010 1
+    101114: Line010 2
+    101116: Line011
+    101118: Line011 1
+    101120: Line011 2
+    101122: Line012
+    101124: Line012 1
+    101126: Line012 2
+    101128: Line013
+    101130: Line013 1
+    101132: Line013 2
+    101134: Line014
+    101136: Line014 1
+    101138: Line014 2
+    101140: Line015
+    101142: Line015 1
+    101144: Line015 2
+    101146: Line016
+    101148: Line016 1
+    101150: Line016 2
+    101152: Line017
+    101154: Line017 1
+    101156: Line017 2
+    101158: Line018
+    101160: Line018 1
+    101162: Line018 2
+    101164: Line019
+    101166: Line019 1
+    101168: Line019 2
+    101170: Line019 3
+    101172: Line020
+    101174: Line020 1
+    101176: Line020 2
+    101178: Line020 3
+    101180: Line021
+    101182: Line021 1
+    101184: Line021 2
+    101186: Line021 3
+    101188: Line022
+    101190: Line022 1
+    101192: Line022 2
+    101194: Line022 3
+    101196: Line023
+    101198: Line023 1
+    101200: Line023 2
+    101202: Line023 3
+    101204: Line024
+    101206: Line024 1
+    101208: Line024 2
+    101210: Line024 3
+    101212: Line025
+    101214: Line025 1
+    101216: Line025 2
+    101218: Line025 3
+    101220: Line026
+    101222: Line026 1
+    101224: Line026 2
+    101226: Line027
+    101228: Line027 1
+    101230: Line027 2
+    101232: Line027 3
+    101234: Line028
+    101236: Line028 1
+    101238: Line028 2
+    101240: Line028 3
+    101242: Line028 4
+    101244: Line029
+    101246: Line029 1
+    101248: Line029 2
+    101250: Line029 3
+    101252: Line030
+    101254: Line030 1
+    101256: Line030 2
+    101258: Line030 3
+    101260: Line031
+    101262: Line031 1
+    101264: Line031 2
+    101266: Line031 3
+    101268: Line032
+    101270: Line032 1
+    101272: Line032 2
+    101274: Line032 3
+    101276: Line033
+    101278: Line033 1
+    101280: Line033 2
+    101282: Line033 3
+    101284: Line034
+    101286: Line034 1
+    101288: Line034 2
+    101290: Line035
+    101292: Line035 1
+    101294: Line035 2
+    101296: Line036
+    101298: Line036 1
+    101300: Line036 2
+    101302: Line037
+    101304: Line037 1
+    101306: Line037 2
+    101308: Line038
+    101310: Line038 1
+    101312: Line038 2
+    101314: Line039
+    101316: Line039 1
+    101318: Line039 2
+    101320: Line040
+    101322: Line040 1
+    101324: Line040 2
+    101326: Line041
+    101328: Line041 1
+    101330: Line041 2
+    101332: Line041 3
+    101334: Line042
+    101336: Line042 1
+    101338: Line042 2
+    101340: Line043
+    101342: Line043 1
+    101344: Line044
+    101346: Line044 1
+    101348: Line045
+    101350: Line045 1
+    101352: Line046
+    101354: Line046 1
+    101356: Line046 2
+    101358: Line047
+    101360: Line047 1
+    101362: Line048
+    101364: Line048 1
+    101366: Line049
+    101368: Line049 1
+    101370: Line050
+    101372: Line051
+    101374: Line052
+    101376: Line053
+    101378: Line054
+    101380: Line055
+    101382: Line056
+    101384: Object
+    101386: Object001
+    101388: Object003
+    101390: Object005
+    101392: Object007
+    101394: Object009
+    101396: Object011
+    101398: Object013
+    101400: Object015
+    101402: Object017
+    101404: Object019
+    101406: Object021
+    101408: Object023
+    101410: Object025
+    101412: Object027
+    101414: Object029
+    101416: Object031
+    101418: Object033
+    101420: Object035
+    101422: Object037
+    101424: Object039
+    101426: Object041
+    101428: Object045
+    101430: Object045 1
+    101432: Object047
+    101434: Object049
+    101436: Object051
+    101438: Object053
+    101440: Object055
+    101442: Object057
+    101444: Object059
+    101446: Object061
+    101448: Object063
+    101450: Object065
+    101452: Object066
+    101454: Object067
+    101456: PivotDoor005
+    101458: PivotDoor011
+    101460: PivotDoor012
+    101462: PivotDoor012 1
+    101464: PivotDoor013
+    101466: PivotDoor014
+    101468: PivotDoor015
+    101470: PivotDoor016
+    101472: PivotDoor017
+    101474: PivotDoor019
+    101476: PivotDoor020
+    101478: PivotDoor021
+    101480: PivotDoor022
+    101482: PivotDoor023
+    101484: PivotDoor024
+    101486: PivotDoor024 1
+    101488: PivotDoor025
+    101490: PivotDoor026
+    101492: PivotDoor027
+    101494: PivotDoor028
+    101496: PivotDoor029
+    101498: PivotDoor031
+    101500: PivotDoor032
+    101502: PivotDoor033
+    101504: PivotDoor033 1
+    101506: PivotDoor034
+    101508: PivotDoor034 1
+    101510: PivotDoor035
+    101512: PivotDoor035 1
+    101514: PivotDoor036
+    101516: PivotDoor036 1
+    101518: PivotDoor037
+    101520: PivotDoor037 1
+    101522: PivotDoor038
+    101524: PivotDoor038 1
+    101526: PivotDoor039
+    101528: PivotDoor039 1
+    101530: PivotDoor040
+    101532: PivotDoor040 1
+    101534: PivotDoor041
+    101536: PivotDoor041 1
+    101538: PivotDoor042
+    101540: PivotDoor042 1
+    101542: PivotDoor043
+    101544: PivotDoor043 1
+    101546: PivotDoor044
+    101548: PivotDoor044 1
+    101550: PivotDoor045
+    101552: PivotDoor046
+    101554: PivotDoor047
+    101556: PivotDoor048
+    101558: PivotDoor049
+    101560: PivotDoor050
+    101562: PivotDoor051
+    101564: PivotDoor052
+    101566: PivotDoor053
+    101568: PivotDoor054
+    101570: PivotDoor055
+    101572: PivotDoor056
+    101574: PivotDoor057
+    101576: PivotDoor058
+    101578: PivotDoor059
+    101580: PivotDoor060
+    101582: PivotDoor061
+    101584: PivotDoor062
+    101586: PivotDoor063
+    101588: PivotDoor064
+    101590: PivotDoor066
+    101592: PivotDoor067
+    101594: PivotDoor068
+    101596: PivotDoor069
+    101598: PivotDoor070
+    101600: PivotDoor072
+    101602: PivotDoor073
+    101604: PivotDoor074
+    101606: PivotDoor075
+    101608: PivotDoor076
+    101610: PivotDoor077
+    101612: PivotDoor078
+    101614: PivotDoor079
+    101616: PivotDoor080
+    101618: PivotDoor081
+    101620: PivotDoor082
+    101622: PivotDoor083
+    101624: PivotDoor084
+    101626: PivotDoor085
+    101628: PivotDoor086
+    101630: PivotDoor087
+    101632: PivotDoor088
+    101634: PivotDoor089
+    101636: PivotDoor090
+    101638: PivotDoor091
+    101640: PivotDoor092
+    101642: PivotDoor093
+    101644: PivotDoor094
+    101646: PivotDoor096
+    101648: PivotDoor097
+    101650: PivotDoor098
+    101652: PivotDoor099
+    101654: PivotDoor100
+    101656: PivotDoor101
+    101658: PivotDoor102
+    101660: ProjectedWindow001
+    101662: rdc
+    101664: Sky002
+    101666: Sky002 1
+    101668: SlidingDoor001
+    101670: SlidingDoor002
+    101672: SlidingDoor003
+    101674: SlidingDoor004
+    101676: SlidingWindow001
+    101678: SlidingWindow002
+    101680: StraightStair001
+    101682: StraightStair002
+    101684: StraightStair003
+    101686: StraightStair004
+    101688: StraightStair005
+    101690: StraightStair007
+    101692: StraightStair008
+    101694: StraightStair009
+    101696: StraightStair010
+    101698: StraightStair011
+    101700: StraightStair012
+    101702: StraightStair013
+    101704: StraightStair014
+    101706: StraightStair015
+    101708: StraightStair016
+    101710: StraightStair017
+    101712: Sun001
+    101714: Sun001 1
+    101716: SzraightStair006
+    101718: vrac
+    400000: 1er
+    400002: 2eme
+    400004: 3eme
+    400006: 4eme
+    400008: //RootNode
+    400010: Box001
+    400012: Box002
+    400014: Box003
+    400016: Box004
+    400018: Box005
+    400020: cafet
+    400022: CasementWindow001
+    400024: CasementWindow002
+    400026: CasementWindow003
+    400028: CasementWindow004
+    400030: CasementWindow005
+    400032: CasementWindow006
+    400034: CasementWindow007
+    400036: Compass001
+    400038: Compass001 1
+    400040: Cylinder001
+    400042: Cylinder001 1
+    400044: Cylinder001 2
+    400046: Cylinder001 3
+    400048: Cylinder001 4
+    400050: Cylinder002
+    400052: Cylinder002 1
+    400054: Cylinder002 2
+    400056: Cylinder002 3
+    400058: Cylinder002 4
+    400060: Cylinder003
+    400062: Cylinder003 1
+    400064: Cylinder003 2
+    400066: Cylinder003 3
+    400068: Cylinder003 4
+    400070: Cylinder004
+    400072: Cylinder004 1
+    400074: Cylinder004 2
+    400076: Cylinder004 3
+    400078: Cylinder004 4
+    400080: Cylinder005
+    400082: Cylinder005 1
+    400084: Cylinder005 2
+    400086: Cylinder005 3
+    400088: Cylinder005 4
+    400090: Cylinder006
+    400092: Cylinder006 1
+    400094: Cylinder006 2
+    400096: Cylinder006 3
+    400098: Cylinder006 4
+    400100: Cylinder007
+    400102: Cylinder007 1
+    400104: Cylinder007 2
+    400106: Cylinder007 3
+    400108: Cylinder007 4
+    400110: Cylinder008
+    400112: Cylinder008 1
+    400114: Cylinder008 2
+    400116: Cylinder008 3
+    400118: Cylinder008 4
+    400120: Cylinder009
+    400122: Cylinder009 1
+    400124: Cylinder009 2
+    400126: Cylinder009 3
+    400128: Cylinder009 4
+    400130: Cylinder010
+    400132: Cylinder010 1
+    400134: Cylinder010 2
+    400136: Cylinder010 3
+    400138: Cylinder010 4
+    400140: Cylinder011
+    400142: Cylinder012
+    400144: Cylinder012 1
+    400146: Cylinder012 2
+    400148: Cylinder012 3
+    400150: Cylinder012 4
+    400152: Cylinder013
+    400154: Cylinder014
+    400156: Cylinder015
+    400158: Cylinder016
+    400160: Cylinder016 1
+    400162: Cylinder016 2
+    400164: Cylinder016 3
+    400166: Cylinder016 4
+    400168: Cylinder017
+    400170: Cylinder017 1
+    400172: Cylinder017 2
+    400174: Cylinder017 3
+    400176: Cylinder017 4
+    400178: Cylinder018
+    400180: Cylinder018 1
+    400182: Cylinder018 2
+    400184: Cylinder018 3
+    400186: Cylinder018 4
+    400188: Cylinder019
+    400190: Cylinder019 1
+    400192: Cylinder019 2
+    400194: Cylinder019 3
+    400196: Cylinder019 4
+    400198: Cylinder020
+    400200: Cylinder020 1
+    400202: Cylinder020 2
+    400204: Cylinder020 3
+    400206: Cylinder020 4
+    400208: Cylinder021
+    400210: Cylinder021 1
+    400212: Cylinder021 2
+    400214: Cylinder021 3
+    400216: Cylinder021 4
+    400218: Cylinder022
+    400220: Cylinder022 1
+    400222: Cylinder022 2
+    400224: Cylinder022 3
+    400226: Cylinder022 4
+    400228: Cylinder023
+    400230: Cylinder024
+    400232: Cylinder025
+    400234: Cylinder026
+    400236: Cylinder027
+    400238: Cylinder027 1
+    400240: Cylinder027 2
+    400242: Cylinder027 3
+    400244: Cylinder027 4
+    400246: Cylinder028
+    400248: Cylinder028 1
+    400250: Cylinder028 2
+    400252: Cylinder028 3
+    400254: Cylinder028 4
+    400256: Cylinder029
+    400258: Cylinder029 1
+    400260: Cylinder029 2
+    400262: Cylinder029 3
+    400264: Cylinder029 4
+    400266: Cylinder030
+    400268: Cylinder030 1
+    400270: Cylinder030 2
+    400272: Cylinder030 3
+    400274: Cylinder030 4
+    400276: Cylinder031
+    400278: Cylinder031 1
+    400280: Cylinder031 2
+    400282: Cylinder031 3
+    400284: Cylinder032
+    400286: Cylinder032 1
+    400288: Cylinder032 2
+    400290: Cylinder033
+    400292: Cylinder033 1
+    400294: Cylinder033 2
+    400296: Cylinder033 3
+    400298: Cylinder034
+    400300: Cylinder034 1
+    400302: Cylinder034 2
+    400304: Cylinder034 3
+    400306: Cylinder035
+    400308: Cylinder035 1
+    400310: Cylinder035 2
+    400312: Cylinder035 3
+    400314: Cylinder036
+    400316: Cylinder036 1
+    400318: Cylinder036 2
+    400320: Cylinder036 3
+    400322: Cylinder036 4
+    400324: Cylinder037
+    400326: Cylinder037 1
+    400328: Cylinder037 2
+    400330: Cylinder037 3
+    400332: Cylinder037 4
+    400334: Cylinder038
+    400336: Cylinder038 1
+    400338: Cylinder038 2
+    400340: Cylinder038 3
+    400342: Cylinder038 4
+    400344: Cylinder039
+    400346: Cylinder039 1
+    400348: Cylinder039 2
+    400350: Cylinder039 3
+    400352: Cylinder039 4
+    400354: Cylinder040
+    400356: Cylinder040 1
+    400358: Cylinder040 2
+    400360: Cylinder040 3
+    400362: Cylinder040 4
+    400364: Cylinder041
+    400366: Cylinder041 1
+    400368: Cylinder041 2
+    400370: Cylinder041 3
+    400372: Cylinder042
+    400374: Cylinder042 1
+    400376: Cylinder042 2
+    400378: Cylinder042 3
+    400380: Cylinder042 4
+    400382: Cylinder043
+    400384: Cylinder043 1
+    400386: Cylinder043 2
+    400388: Cylinder043 3
+    400390: Cylinder044
+    400392: Cylinder044 1
+    400394: Cylinder044 2
+    400396: Cylinder044 3
+    400398: Cylinder045
+    400400: Cylinder045 1
+    400402: Cylinder045 2
+    400404: Cylinder045 3
+    400406: Cylinder046
+    400408: Cylinder046 1
+    400410: Cylinder046 2
+    400412: Cylinder046 3
+    400414: Cylinder047
+    400416: Cylinder047 1
+    400418: Cylinder047 2
+    400420: Cylinder047 3
+    400422: Cylinder047 4
+    400424: Cylinder048
+    400426: Cylinder048 1
+    400428: Cylinder048 2
+    400430: Cylinder048 3
+    400432: Cylinder048 4
+    400434: Cylinder049
+    400436: Cylinder049 1
+    400438: Cylinder049 2
+    400440: Cylinder049 3
+    400442: Cylinder049 4
+    400444: Cylinder050
+    400446: Cylinder050 1
+    400448: Cylinder050 2
+    400450: Cylinder050 3
+    400452: Cylinder051
+    400454: Cylinder051 1
+    400456: Cylinder051 2
+    400458: Cylinder051 3
+    400460: Cylinder052
+    400462: Cylinder052 1
+    400464: Cylinder052 2
+    400466: Cylinder052 3
+    400468: Cylinder053
+    400470: Cylinder053 1
+    400472: Cylinder053 2
+    400474: Cylinder054
+    400476: Cylinder054 1
+    400478: Cylinder054 2
+    400480: Cylinder055
+    400482: Cylinder055 1
+    400484: Cylinder055 2
+    400486: Cylinder056
+    400488: Cylinder057
+    400490: Daylight001
+    400492: Daylight001 1
+    400494: facade
+    400496: facade2
+    400498: facade3
+    400500: FixedWindow001
+    400502: FixedWindow002
+    400504: FixedWindow002 1
+    400506: FixedWindow003
+    400508: FixedWindow003 1
+    400510: FixedWindow003 2
+    400512: FixedWindow004
+    400514: FixedWindow004 1
+    400516: FixedWindow004 2
+    400518: FixedWindow005
+    400520: FixedWindow005 1
+    400522: FixedWindow005 2
+    400524: FixedWindow006
+    400526: FixedWindow006 1
+    400528: FixedWindow006 2
+    400530: FixedWindow007
+    400532: FixedWindow007 1
+    400534: FixedWindow007 2
+    400536: FixedWindow008
+    400538: FixedWindow008 1
+    400540: FixedWindow008 2
+    400542: FixedWindow009
+    400544: FixedWindow009 1
+    400546: FixedWindow009 2
+    400548: FixedWindow010
+    400550: FixedWindow010 1
+    400552: FixedWindow010 2
+    400554: FixedWindow011
+    400556: FixedWindow011 1
+    400558: FixedWindow011 2
+    400560: FixedWindow012
+    400562: FixedWindow012 1
+    400564: FixedWindow012 2
+    400566: FixedWindow013
+    400568: FixedWindow013 1
+    400570: FixedWindow013 2
+    400572: FixedWindow014
+    400574: FixedWindow014 1
+    400576: FixedWindow014 2
+    400578: FixedWindow015
+    400580: FixedWindow015 1
+    400582: FixedWindow015 2
+    400584: FixedWindow016
+    400586: FixedWindow016 1
+    400588: FixedWindow016 2
+    400590: FixedWindow017
+    400592: FixedWindow017 1
+    400594: FixedWindow017 2
+    400596: FixedWindow018
+    400598: FixedWindow018 1
+    400600: FixedWindow018 2
+    400602: FixedWindow019
+    400604: FixedWindow019 1
+    400606: FixedWindow019 2
+    400608: FixedWindow020
+    400610: FixedWindow020 1
+    400612: FixedWindow020 2
+    400614: FixedWindow021
+    400616: FixedWindow021 1
+    400618: FixedWindow021 2
+    400620: FixedWindow022
+    400622: FixedWindow022 1
+    400624: FixedWindow022 2
+    400626: FixedWindow023
+    400628: FixedWindow023 1
+    400630: FixedWindow023 2
+    400632: FixedWindow024
+    400634: FixedWindow024 1
+    400636: FixedWindow024 2
+    400638: FixedWindow025
+    400640: FixedWindow025 1
+    400642: FixedWindow025 2
+    400644: FixedWindow026
+    400646: FixedWindow026 1
+    400648: FixedWindow026 2
+    400650: FixedWindow027
+    400652: FixedWindow027 1
+    400654: FixedWindow027 2
+    400656: FixedWindow028
+    400658: FixedWindow028 1
+    400660: FixedWindow028 2
+    400662: FixedWindow029
+    400664: FixedWindow029 1
+    400666: FixedWindow029 2
+    400668: FixedWindow030
+    400670: FixedWindow030 1
+    400672: FixedWindow030 2
+    400674: FixedWindow031
+    400676: FixedWindow031 1
+    400678: FixedWindow031 2
+    400680: FixedWindow032
+    400682: FixedWindow032 1
+    400684: FixedWindow032 2
+    400686: FixedWindow033
+    400688: FixedWindow033 1
+    400690: FixedWindow033 2
+    400692: FixedWindow034
+    400694: FixedWindow034 1
+    400696: FixedWindow034 2
+    400698: FixedWindow035
+    400700: FixedWindow035 1
+    400702: FixedWindow035 2
+    400704: FixedWindow036
+    400706: FixedWindow036 1
+    400708: FixedWindow036 2
+    400710: FixedWindow037
+    400712: FixedWindow037 1
+    400714: FixedWindow038
+    400716: FixedWindow038 1
+    400718: FixedWindow039
+    400720: FixedWindow039 1
+    400722: FixedWindow040
+    400724: FixedWindow040 1
+    400726: FixedWindow041
+    400728: FixedWindow041 1
+    400730: FixedWindow042
+    400732: FixedWindow042 1
+    400734: FixedWindow043
+    400736: FixedWindow043 1
+    400738: FixedWindow044
+    400740: FixedWindow044 1
+    400742: FixedWindow045
+    400744: FixedWindow045 1
+    400746: FixedWindow046
+    400748: FixedWindow046 1
+    400750: FixedWindow047
+    400752: FixedWindow047 1
+    400754: FixedWindow048
+    400756: FixedWindow048 1
+    400758: FixedWindow049
+    400760: FixedWindow050
+    400762: FixedWindow051
+    400764: FixedWindow052
+    400766: FixedWindow053
+    400768: FixedWindow054
+    400770: FixedWindow055
+    400772: FixedWindow056
+    400774: FixedWindow057
+    400776: FixedWindow058
+    400778: FixedWindow059
+    400780: FixedWindow060
+    400782: FixedWindow061
+    400784: FixedWindow062
+    400786: FixedWindow063
+    400788: FixedWindow064
+    400790: FixedWindow065
+    400792: FixedWindow066
+    400794: FixedWindow067
+    400796: FixedWindow068
+    400798: FixedWindow069
+    400800: FixedWindow070
+    400802: FixedWindow071
+    400804: FixedWindow072
+    400806: FixedWindow073
+    400808: FixedWindow074
+    400810: FixedWindow075
+    400812: FixedWindow076
+    400814: FixedWindow077
+    400816: FixedWindow078
+    400818: FixedWindow079
+    400820: FixedWindow080
+    400822: FixedWindow081
+    400824: FixedWindow082
+    400826: FixedWindow083
+    400828: FixedWindow084
+    400830: FixedWindow085
+    400832: FixedWindow086
+    400834: FixedWindow087
+    400836: FixedWindow088
+    400838: FixedWindow089
+    400840: FixedWindow090
+    400842: FixedWindow091
+    400844: FixedWindow092
+    400846: FixedWindow093
+    400848: FixedWindow094
+    400850: FixedWindow095
+    400852: FixedWindow096
+    400854: FixedWindow097
+    400856: FixedWindow098
+    400858: FixedWindow099
+    400860: FixedWindow100
+    400862: FixedWindow101
+    400864: FixedWindow102
+    400866: FixedWindow103
+    400868: FixedWindow104
+    400870: FixedWindow105
+    400872: FixedWindow106
+    400874: FixedWindow107
+    400876: FixedWindow108
+    400878: FixedWindow109
+    400880: FixedWindow110
+    400882: FixedWindow111
+    400884: FixedWindow112
+    400886: FixedWindow113
+    400888: FixedWindow114
+    400890: FixedWindow115
+    400892: FixedWindow116
+    400894: FixedWindow117
+    400896: FixedWindow118
+    400898: FixedWindow119
+    400900: FixedWindow120
+    400902: FixedWindow121
+    400904: FixedWindow122
+    400906: FixedWindow123
+    400908: FixedWindow124
+    400910: FixedWindow125
+    400912: FixedWindow126
+    400914: FixedWindow127
+    400916: FixedWindow128
+    400918: FixedWindow129
+    400920: FixedWindow130
+    400922: FixedWindow131
+    400924: FixedWindow132
+    400926: FixedWindow133
+    400928: FixedWindow134
+    400930: FixedWindow135
+    400932: FixedWindow136
+    400934: FixedWindow137
+    400936: FixedWindow138
+    400938: FixedWindow139
+    400940: FixedWindow140
+    400942: FixedWindow141
+    400944: FixedWindow142
+    400946: FixedWindow143
+    400948: FixedWindow144
+    400950: FixedWindow145
+    400952: FixedWindow146
+    400954: FixedWindow147
+    400956: FixedWindow148
+    400958: FixedWindow149
+    400960: FixedWindow150
+    400962: FixedWindow151
+    400964: FixedWindow152
+    400966: FixedWindow153
+    400968: FixedWindow154
+    400970: FixedWindow155
+    400972: FixedWindow156
+    400974: FixedWindow157
+    400976: FixedWindow158
+    400978: FixedWindow159
+    400980: FixedWindow160
+    400982: FixedWindow161
+    400984: FixedWindow162
+    400986: FixedWindow163
+    400988: FixedWindow164
+    400990: FixedWindow165
+    400992: FixedWindow166
+    400994: FixedWindow167
+    400996: FixedWindow168
+    400998: FixedWindow169
+    401000: FixedWindow170
+    401002: FixedWindow171
+    401004: FixedWindow172
+    401006: FixedWindow173
+    401008: FixedWindow174
+    401010: FixedWindow175
+    401012: FixedWindow176
+    401014: FixedWindow177
+    401016: FixedWindow178
+    401018: FixedWindow179
+    401020: FixedWindow180
+    401022: FixedWindow181
+    401024: FixedWindow182
+    401026: FixedWindow183
+    401028: FixedWindow184
+    401030: FixedWindow185
+    401032: FixedWindow186
+    401034: FixedWindow187
+    401036: FixedWindow188
+    401038: FixedWindow189
+    401040: FixedWindow190
+    401042: FixedWindow191
+    401044: FixedWindow192
+    401046: FixedWindow193
+    401048: FixedWindow194
+    401050: Line001
+    401052: Line001 1
+    401054: Line001 2
+    401056: Line001 3
+    401058: Line001 4
+    401060: Line002
+    401062: Line002 1
+    401064: Line002 2
+    401066: Line003
+    401068: Line003 1
+    401070: Line003 2
+    401072: Line004
+    401074: Line004 1
+    401076: Line004 2
+    401078: Line005
+    401080: Line005 1
+    401082: Line005 2
+    401084: Line006
+    401086: Line006 1
+    401088: Line006 2
+    401090: Line007
+    401092: Line007 1
+    401094: Line007 2
+    401096: Line008
+    401098: Line008 1
+    401100: Line008 2
+    401102: Line009
+    401104: Line009 1
+    401106: Line009 2
+    401108: Line009 3
+    401110: Line010
+    401112: Line010 1
+    401114: Line010 2
+    401116: Line011
+    401118: Line011 1
+    401120: Line011 2
+    401122: Line012
+    401124: Line012 1
+    401126: Line012 2
+    401128: Line013
+    401130: Line013 1
+    401132: Line013 2
+    401134: Line014
+    401136: Line014 1
+    401138: Line014 2
+    401140: Line015
+    401142: Line015 1
+    401144: Line015 2
+    401146: Line016
+    401148: Line016 1
+    401150: Line016 2
+    401152: Line017
+    401154: Line017 1
+    401156: Line017 2
+    401158: Line018
+    401160: Line018 1
+    401162: Line018 2
+    401164: Line019
+    401166: Line019 1
+    401168: Line019 2
+    401170: Line019 3
+    401172: Line020
+    401174: Line020 1
+    401176: Line020 2
+    401178: Line020 3
+    401180: Line021
+    401182: Line021 1
+    401184: Line021 2
+    401186: Line021 3
+    401188: Line022
+    401190: Line022 1
+    401192: Line022 2
+    401194: Line022 3
+    401196: Line023
+    401198: Line023 1
+    401200: Line023 2
+    401202: Line023 3
+    401204: Line024
+    401206: Line024 1
+    401208: Line024 2
+    401210: Line024 3
+    401212: Line025
+    401214: Line025 1
+    401216: Line025 2
+    401218: Line025 3
+    401220: Line026
+    401222: Line026 1
+    401224: Line026 2
+    401226: Line027
+    401228: Line027 1
+    401230: Line027 2
+    401232: Line027 3
+    401234: Line028
+    401236: Line028 1
+    401238: Line028 2
+    401240: Line028 3
+    401242: Line028 4
+    401244: Line029
+    401246: Line029 1
+    401248: Line029 2
+    401250: Line029 3
+    401252: Line030
+    401254: Line030 1
+    401256: Line030 2
+    401258: Line030 3
+    401260: Line031
+    401262: Line031 1
+    401264: Line031 2
+    401266: Line031 3
+    401268: Line032
+    401270: Line032 1
+    401272: Line032 2
+    401274: Line032 3
+    401276: Line033
+    401278: Line033 1
+    401280: Line033 2
+    401282: Line033 3
+    401284: Line034
+    401286: Line034 1
+    401288: Line034 2
+    401290: Line035
+    401292: Line035 1
+    401294: Line035 2
+    401296: Line036
+    401298: Line036 1
+    401300: Line036 2
+    401302: Line037
+    401304: Line037 1
+    401306: Line037 2
+    401308: Line038
+    401310: Line038 1
+    401312: Line038 2
+    401314: Line039
+    401316: Line039 1
+    401318: Line039 2
+    401320: Line040
+    401322: Line040 1
+    401324: Line040 2
+    401326: Line041
+    401328: Line041 1
+    401330: Line041 2
+    401332: Line041 3
+    401334: Line042
+    401336: Line042 1
+    401338: Line042 2
+    401340: Line043
+    401342: Line043 1
+    401344: Line044
+    401346: Line044 1
+    401348: Line045
+    401350: Line045 1
+    401352: Line046
+    401354: Line046 1
+    401356: Line046 2
+    401358: Line047
+    401360: Line047 1
+    401362: Line048
+    401364: Line048 1
+    401366: Line049
+    401368: Line049 1
+    401370: Line050
+    401372: Line051
+    401374: Line052
+    401376: Line053
+    401378: Line054
+    401380: Line055
+    401382: Line056
+    401384: Object
+    401386: Object001
+    401388: Object003
+    401390: Object005
+    401392: Object007
+    401394: Object009
+    401396: Object011
+    401398: Object013
+    401400: Object015
+    401402: Object017
+    401404: Object019
+    401406: Object021
+    401408: Object023
+    401410: Object025
+    401412: Object027
+    401414: Object029
+    401416: Object031
+    401418: Object033
+    401420: Object035
+    401422: Object037
+    401424: Object039
+    401426: Object041
+    401428: Object045
+    401430: Object045 1
+    401432: Object047
+    401434: Object049
+    401436: Object051
+    401438: Object053
+    401440: Object055
+    401442: Object057
+    401444: Object059
+    401446: Object061
+    401448: Object063
+    401450: Object065
+    401452: Object066
+    401454: Object067
+    401456: PivotDoor005
+    401458: PivotDoor011
+    401460: PivotDoor012
+    401462: PivotDoor012 1
+    401464: PivotDoor013
+    401466: PivotDoor014
+    401468: PivotDoor015
+    401470: PivotDoor016
+    401472: PivotDoor017
+    401474: PivotDoor019
+    401476: PivotDoor020
+    401478: PivotDoor021
+    401480: PivotDoor022
+    401482: PivotDoor023
+    401484: PivotDoor024
+    401486: PivotDoor024 1
+    401488: PivotDoor025
+    401490: PivotDoor026
+    401492: PivotDoor027
+    401494: PivotDoor028
+    401496: PivotDoor029
+    401498: PivotDoor031
+    401500: PivotDoor032
+    401502: PivotDoor033
+    401504: PivotDoor033 1
+    401506: PivotDoor034
+    401508: PivotDoor034 1
+    401510: PivotDoor035
+    401512: PivotDoor035 1
+    401514: PivotDoor036
+    401516: PivotDoor036 1
+    401518: PivotDoor037
+    401520: PivotDoor037 1
+    401522: PivotDoor038
+    401524: PivotDoor038 1
+    401526: PivotDoor039
+    401528: PivotDoor039 1
+    401530: PivotDoor040
+    401532: PivotDoor040 1
+    401534: PivotDoor041
+    401536: PivotDoor041 1
+    401538: PivotDoor042
+    401540: PivotDoor042 1
+    401542: PivotDoor043
+    401544: PivotDoor043 1
+    401546: PivotDoor044
+    401548: PivotDoor044 1
+    401550: PivotDoor045
+    401552: PivotDoor046
+    401554: PivotDoor047
+    401556: PivotDoor048
+    401558: PivotDoor049
+    401560: PivotDoor050
+    401562: PivotDoor051
+    401564: PivotDoor052
+    401566: PivotDoor053
+    401568: PivotDoor054
+    401570: PivotDoor055
+    401572: PivotDoor056
+    401574: PivotDoor057
+    401576: PivotDoor058
+    401578: PivotDoor059
+    401580: PivotDoor060
+    401582: PivotDoor061
+    401584: PivotDoor062
+    401586: PivotDoor063
+    401588: PivotDoor064
+    401590: PivotDoor066
+    401592: PivotDoor067
+    401594: PivotDoor068
+    401596: PivotDoor069
+    401598: PivotDoor070
+    401600: PivotDoor072
+    401602: PivotDoor073
+    401604: PivotDoor074
+    401606: PivotDoor075
+    401608: PivotDoor076
+    401610: PivotDoor077
+    401612: PivotDoor078
+    401614: PivotDoor079
+    401616: PivotDoor080
+    401618: PivotDoor081
+    401620: PivotDoor082
+    401622: PivotDoor083
+    401624: PivotDoor084
+    401626: PivotDoor085
+    401628: PivotDoor086
+    401630: PivotDoor087
+    401632: PivotDoor088
+    401634: PivotDoor089
+    401636: PivotDoor090
+    401638: PivotDoor091
+    401640: PivotDoor092
+    401642: PivotDoor093
+    401644: PivotDoor094
+    401646: PivotDoor096
+    401648: PivotDoor097
+    401650: PivotDoor098
+    401652: PivotDoor099
+    401654: PivotDoor100
+    401656: PivotDoor101
+    401658: PivotDoor102
+    401660: ProjectedWindow001
+    401662: rdc
+    401664: Sky002
+    401666: Sky002 1
+    401668: SlidingDoor001
+    401670: SlidingDoor002
+    401672: SlidingDoor003
+    401674: SlidingDoor004
+    401676: SlidingWindow001
+    401678: SlidingWindow002
+    401680: StraightStair001
+    401682: StraightStair002
+    401684: StraightStair003
+    401686: StraightStair004
+    401688: StraightStair005
+    401690: StraightStair007
+    401692: StraightStair008
+    401694: StraightStair009
+    401696: StraightStair010
+    401698: StraightStair011
+    401700: StraightStair012
+    401702: StraightStair013
+    401704: StraightStair014
+    401706: StraightStair015
+    401708: StraightStair016
+    401710: StraightStair017
+    401712: Sun001
+    401714: Sun001 1
+    401716: SzraightStair006
+    401718: vrac
+    2300000: Box001
+    2300002: Box002
+    2300004: Box003
+    2300006: Box004
+    2300008: Box005
+    2300010: CasementWindow001
+    2300012: CasementWindow002
+    2300014: CasementWindow003
+    2300016: CasementWindow004
+    2300018: CasementWindow005
+    2300020: CasementWindow006
+    2300022: CasementWindow007
+    2300024: Cylinder001
+    2300026: Cylinder001 1
+    2300028: Cylinder001 2
+    2300030: Cylinder001 3
+    2300032: Cylinder001 4
+    2300034: Cylinder002
+    2300036: Cylinder002 1
+    2300038: Cylinder002 2
+    2300040: Cylinder002 3
+    2300042: Cylinder002 4
+    2300044: Cylinder003
+    2300046: Cylinder003 1
+    2300048: Cylinder003 2
+    2300050: Cylinder003 3
+    2300052: Cylinder003 4
+    2300054: Cylinder004
+    2300056: Cylinder004 1
+    2300058: Cylinder004 2
+    2300060: Cylinder004 3
+    2300062: Cylinder004 4
+    2300064: Cylinder005
+    2300066: Cylinder005 1
+    2300068: Cylinder005 2
+    2300070: Cylinder005 3
+    2300072: Cylinder005 4
+    2300074: Cylinder006
+    2300076: Cylinder006 1
+    2300078: Cylinder006 2
+    2300080: Cylinder006 3
+    2300082: Cylinder006 4
+    2300084: Cylinder007
+    2300086: Cylinder007 1
+    2300088: Cylinder007 2
+    2300090: Cylinder007 3
+    2300092: Cylinder007 4
+    2300094: Cylinder008
+    2300096: Cylinder008 1
+    2300098: Cylinder008 2
+    2300100: Cylinder008 3
+    2300102: Cylinder008 4
+    2300104: Cylinder009
+    2300106: Cylinder009 1
+    2300108: Cylinder009 2
+    2300110: Cylinder009 3
+    2300112: Cylinder009 4
+    2300114: Cylinder010
+    2300116: Cylinder010 1
+    2300118: Cylinder010 2
+    2300120: Cylinder010 3
+    2300122: Cylinder010 4
+    2300124: Cylinder011
+    2300126: Cylinder012
+    2300128: Cylinder012 1
+    2300130: Cylinder012 2
+    2300132: Cylinder012 3
+    2300134: Cylinder012 4
+    2300136: Cylinder013
+    2300138: Cylinder014
+    2300140: Cylinder015
+    2300142: Cylinder016
+    2300144: Cylinder016 1
+    2300146: Cylinder016 2
+    2300148: Cylinder016 3
+    2300150: Cylinder016 4
+    2300152: Cylinder017
+    2300154: Cylinder017 1
+    2300156: Cylinder017 2
+    2300158: Cylinder017 3
+    2300160: Cylinder017 4
+    2300162: Cylinder018
+    2300164: Cylinder018 1
+    2300166: Cylinder018 2
+    2300168: Cylinder018 3
+    2300170: Cylinder018 4
+    2300172: Cylinder019
+    2300174: Cylinder019 1
+    2300176: Cylinder019 2
+    2300178: Cylinder019 3
+    2300180: Cylinder019 4
+    2300182: Cylinder020
+    2300184: Cylinder020 1
+    2300186: Cylinder020 2
+    2300188: Cylinder020 3
+    2300190: Cylinder020 4
+    2300192: Cylinder021
+    2300194: Cylinder021 1
+    2300196: Cylinder021 2
+    2300198: Cylinder021 3
+    2300200: Cylinder021 4
+    2300202: Cylinder022
+    2300204: Cylinder022 1
+    2300206: Cylinder022 2
+    2300208: Cylinder022 3
+    2300210: Cylinder022 4
+    2300212: Cylinder023
+    2300214: Cylinder024
+    2300216: Cylinder025
+    2300218: Cylinder026
+    2300220: Cylinder027
+    2300222: Cylinder027 1
+    2300224: Cylinder027 2
+    2300226: Cylinder027 3
+    2300228: Cylinder027 4
+    2300230: Cylinder028
+    2300232: Cylinder028 1
+    2300234: Cylinder028 2
+    2300236: Cylinder028 3
+    2300238: Cylinder028 4
+    2300240: Cylinder029
+    2300242: Cylinder029 1
+    2300244: Cylinder029 2
+    2300246: Cylinder029 3
+    2300248: Cylinder029 4
+    2300250: Cylinder030
+    2300252: Cylinder030 1
+    2300254: Cylinder030 2
+    2300256: Cylinder030 3
+    2300258: Cylinder030 4
+    2300260: Cylinder031
+    2300262: Cylinder031 1
+    2300264: Cylinder031 2
+    2300266: Cylinder031 3
+    2300268: Cylinder032
+    2300270: Cylinder032 1
+    2300272: Cylinder032 2
+    2300274: Cylinder033
+    2300276: Cylinder033 1
+    2300278: Cylinder033 2
+    2300280: Cylinder033 3
+    2300282: Cylinder034
+    2300284: Cylinder034 1
+    2300286: Cylinder034 2
+    2300288: Cylinder034 3
+    2300290: Cylinder035
+    2300292: Cylinder035 1
+    2300294: Cylinder035 2
+    2300296: Cylinder035 3
+    2300298: Cylinder036
+    2300300: Cylinder036 1
+    2300302: Cylinder036 2
+    2300304: Cylinder036 3
+    2300306: Cylinder036 4
+    2300308: Cylinder037
+    2300310: Cylinder037 1
+    2300312: Cylinder037 2
+    2300314: Cylinder037 3
+    2300316: Cylinder037 4
+    2300318: Cylinder038
+    2300320: Cylinder038 1
+    2300322: Cylinder038 2
+    2300324: Cylinder038 3
+    2300326: Cylinder038 4
+    2300328: Cylinder039
+    2300330: Cylinder039 1
+    2300332: Cylinder039 2
+    2300334: Cylinder039 3
+    2300336: Cylinder039 4
+    2300338: Cylinder040
+    2300340: Cylinder040 1
+    2300342: Cylinder040 2
+    2300344: Cylinder040 3
+    2300346: Cylinder040 4
+    2300348: Cylinder041
+    2300350: Cylinder041 1
+    2300352: Cylinder041 2
+    2300354: Cylinder041 3
+    2300356: Cylinder042
+    2300358: Cylinder042 1
+    2300360: Cylinder042 2
+    2300362: Cylinder042 3
+    2300364: Cylinder042 4
+    2300366: Cylinder043
+    2300368: Cylinder043 1
+    2300370: Cylinder043 2
+    2300372: Cylinder043 3
+    2300374: Cylinder044
+    2300376: Cylinder044 1
+    2300378: Cylinder044 2
+    2300380: Cylinder044 3
+    2300382: Cylinder045
+    2300384: Cylinder045 1
+    2300386: Cylinder045 2
+    2300388: Cylinder045 3
+    2300390: Cylinder046
+    2300392: Cylinder046 1
+    2300394: Cylinder046 2
+    2300396: Cylinder046 3
+    2300398: Cylinder047
+    2300400: Cylinder047 1
+    2300402: Cylinder047 2
+    2300404: Cylinder047 3
+    2300406: Cylinder047 4
+    2300408: Cylinder048
+    2300410: Cylinder048 1
+    2300412: Cylinder048 2
+    2300414: Cylinder048 3
+    2300416: Cylinder048 4
+    2300418: Cylinder049
+    2300420: Cylinder049 1
+    2300422: Cylinder049 2
+    2300424: Cylinder049 3
+    2300426: Cylinder049 4
+    2300428: Cylinder050
+    2300430: Cylinder050 1
+    2300432: Cylinder050 2
+    2300434: Cylinder050 3
+    2300436: Cylinder051
+    2300438: Cylinder051 1
+    2300440: Cylinder051 2
+    2300442: Cylinder051 3
+    2300444: Cylinder052
+    2300446: Cylinder052 1
+    2300448: Cylinder052 2
+    2300450: Cylinder052 3
+    2300452: Cylinder053
+    2300454: Cylinder053 1
+    2300456: Cylinder053 2
+    2300458: Cylinder054
+    2300460: Cylinder054 1
+    2300462: Cylinder054 2
+    2300464: Cylinder055
+    2300466: Cylinder055 1
+    2300468: Cylinder055 2
+    2300470: Cylinder056
+    2300472: Cylinder057
+    2300474: FixedWindow001
+    2300476: FixedWindow002
+    2300478: FixedWindow002 1
+    2300480: FixedWindow003
+    2300482: FixedWindow003 1
+    2300484: FixedWindow003 2
+    2300486: FixedWindow004
+    2300488: FixedWindow004 1
+    2300490: FixedWindow004 2
+    2300492: FixedWindow005
+    2300494: FixedWindow005 1
+    2300496: FixedWindow005 2
+    2300498: FixedWindow006
+    2300500: FixedWindow006 1
+    2300502: FixedWindow006 2
+    2300504: FixedWindow007
+    2300506: FixedWindow007 1
+    2300508: FixedWindow007 2
+    2300510: FixedWindow008
+    2300512: FixedWindow008 1
+    2300514: FixedWindow008 2
+    2300516: FixedWindow009
+    2300518: FixedWindow009 1
+    2300520: FixedWindow009 2
+    2300522: FixedWindow010
+    2300524: FixedWindow010 1
+    2300526: FixedWindow010 2
+    2300528: FixedWindow011
+    2300530: FixedWindow011 1
+    2300532: FixedWindow011 2
+    2300534: FixedWindow012
+    2300536: FixedWindow012 1
+    2300538: FixedWindow012 2
+    2300540: FixedWindow013
+    2300542: FixedWindow013 1
+    2300544: FixedWindow013 2
+    2300546: FixedWindow014
+    2300548: FixedWindow014 1
+    2300550: FixedWindow014 2
+    2300552: FixedWindow015
+    2300554: FixedWindow015 1
+    2300556: FixedWindow015 2
+    2300558: FixedWindow016
+    2300560: FixedWindow016 1
+    2300562: FixedWindow016 2
+    2300564: FixedWindow017
+    2300566: FixedWindow017 1
+    2300568: FixedWindow017 2
+    2300570: FixedWindow018
+    2300572: FixedWindow018 1
+    2300574: FixedWindow018 2
+    2300576: FixedWindow019
+    2300578: FixedWindow019 1
+    2300580: FixedWindow019 2
+    2300582: FixedWindow020
+    2300584: FixedWindow020 1
+    2300586: FixedWindow020 2
+    2300588: FixedWindow021
+    2300590: FixedWindow021 1
+    2300592: FixedWindow021 2
+    2300594: FixedWindow022
+    2300596: FixedWindow022 1
+    2300598: FixedWindow022 2
+    2300600: FixedWindow023
+    2300602: FixedWindow023 1
+    2300604: FixedWindow023 2
+    2300606: FixedWindow024
+    2300608: FixedWindow024 1
+    2300610: FixedWindow024 2
+    2300612: FixedWindow025
+    2300614: FixedWindow025 1
+    2300616: FixedWindow025 2
+    2300618: FixedWindow026
+    2300620: FixedWindow026 1
+    2300622: FixedWindow026 2
+    2300624: FixedWindow027
+    2300626: FixedWindow027 1
+    2300628: FixedWindow027 2
+    2300630: FixedWindow028
+    2300632: FixedWindow028 1
+    2300634: FixedWindow028 2
+    2300636: FixedWindow029
+    2300638: FixedWindow029 1
+    2300640: FixedWindow029 2
+    2300642: FixedWindow030
+    2300644: FixedWindow030 1
+    2300646: FixedWindow030 2
+    2300648: FixedWindow031
+    2300650: FixedWindow031 1
+    2300652: FixedWindow031 2
+    2300654: FixedWindow032
+    2300656: FixedWindow032 1
+    2300658: FixedWindow032 2
+    2300660: FixedWindow033
+    2300662: FixedWindow033 1
+    2300664: FixedWindow033 2
+    2300666: FixedWindow034
+    2300668: FixedWindow034 1
+    2300670: FixedWindow034 2
+    2300672: FixedWindow035
+    2300674: FixedWindow035 1
+    2300676: FixedWindow035 2
+    2300678: FixedWindow036
+    2300680: FixedWindow036 1
+    2300682: FixedWindow036 2
+    2300684: FixedWindow037
+    2300686: FixedWindow037 1
+    2300688: FixedWindow038
+    2300690: FixedWindow038 1
+    2300692: FixedWindow039
+    2300694: FixedWindow039 1
+    2300696: FixedWindow040
+    2300698: FixedWindow040 1
+    2300700: FixedWindow041
+    2300702: FixedWindow041 1
+    2300704: FixedWindow042
+    2300706: FixedWindow042 1
+    2300708: FixedWindow043
+    2300710: FixedWindow043 1
+    2300712: FixedWindow044
+    2300714: FixedWindow044 1
+    2300716: FixedWindow045
+    2300718: FixedWindow045 1
+    2300720: FixedWindow046
+    2300722: FixedWindow046 1
+    2300724: FixedWindow047
+    2300726: FixedWindow047 1
+    2300728: FixedWindow048
+    2300730: FixedWindow048 1
+    2300732: FixedWindow049
+    2300734: FixedWindow050
+    2300736: FixedWindow051
+    2300738: FixedWindow052
+    2300740: FixedWindow053
+    2300742: FixedWindow054
+    2300744: FixedWindow055
+    2300746: FixedWindow056
+    2300748: FixedWindow057
+    2300750: FixedWindow058
+    2300752: FixedWindow059
+    2300754: FixedWindow060
+    2300756: FixedWindow061
+    2300758: FixedWindow062
+    2300760: FixedWindow063
+    2300762: FixedWindow064
+    2300764: FixedWindow065
+    2300766: FixedWindow066
+    2300768: FixedWindow067
+    2300770: FixedWindow068
+    2300772: FixedWindow069
+    2300774: FixedWindow070
+    2300776: FixedWindow071
+    2300778: FixedWindow072
+    2300780: FixedWindow073
+    2300782: FixedWindow074
+    2300784: FixedWindow075
+    2300786: FixedWindow076
+    2300788: FixedWindow077
+    2300790: FixedWindow078
+    2300792: FixedWindow079
+    2300794: FixedWindow080
+    2300796: FixedWindow081
+    2300798: FixedWindow082
+    2300800: FixedWindow083
+    2300802: FixedWindow084
+    2300804: FixedWindow085
+    2300806: FixedWindow086
+    2300808: FixedWindow087
+    2300810: FixedWindow088
+    2300812: FixedWindow089
+    2300814: FixedWindow090
+    2300816: FixedWindow091
+    2300818: FixedWindow092
+    2300820: FixedWindow093
+    2300822: FixedWindow094
+    2300824: FixedWindow095
+    2300826: FixedWindow096
+    2300828: FixedWindow097
+    2300830: FixedWindow098
+    2300832: FixedWindow099
+    2300834: FixedWindow100
+    2300836: FixedWindow101
+    2300838: FixedWindow102
+    2300840: FixedWindow103
+    2300842: FixedWindow104
+    2300844: FixedWindow105
+    2300846: FixedWindow106
+    2300848: FixedWindow107
+    2300850: FixedWindow108
+    2300852: FixedWindow109
+    2300854: FixedWindow110
+    2300856: FixedWindow111
+    2300858: FixedWindow112
+    2300860: FixedWindow113
+    2300862: FixedWindow114
+    2300864: FixedWindow115
+    2300866: FixedWindow116
+    2300868: FixedWindow117
+    2300870: FixedWindow118
+    2300872: FixedWindow119
+    2300874: FixedWindow120
+    2300876: FixedWindow121
+    2300878: FixedWindow122
+    2300880: FixedWindow123
+    2300882: FixedWindow124
+    2300884: FixedWindow125
+    2300886: FixedWindow126
+    2300888: FixedWindow127
+    2300890: FixedWindow128
+    2300892: FixedWindow129
+    2300894: FixedWindow130
+    2300896: FixedWindow131
+    2300898: FixedWindow132
+    2300900: FixedWindow133
+    2300902: FixedWindow134
+    2300904: FixedWindow135
+    2300906: FixedWindow136
+    2300908: FixedWindow137
+    2300910: FixedWindow138
+    2300912: FixedWindow139
+    2300914: FixedWindow140
+    2300916: FixedWindow141
+    2300918: FixedWindow142
+    2300920: FixedWindow143
+    2300922: FixedWindow144
+    2300924: FixedWindow145
+    2300926: FixedWindow146
+    2300928: FixedWindow147
+    2300930: FixedWindow148
+    2300932: FixedWindow149
+    2300934: FixedWindow150
+    2300936: FixedWindow151
+    2300938: FixedWindow152
+    2300940: FixedWindow153
+    2300942: FixedWindow154
+    2300944: FixedWindow155
+    2300946: FixedWindow156
+    2300948: FixedWindow157
+    2300950: FixedWindow158
+    2300952: FixedWindow159
+    2300954: FixedWindow160
+    2300956: FixedWindow161
+    2300958: FixedWindow162
+    2300960: FixedWindow163
+    2300962: FixedWindow164
+    2300964: FixedWindow165
+    2300966: FixedWindow166
+    2300968: FixedWindow167
+    2300970: FixedWindow168
+    2300972: FixedWindow169
+    2300974: FixedWindow170
+    2300976: FixedWindow171
+    2300978: FixedWindow172
+    2300980: FixedWindow173
+    2300982: FixedWindow174
+    2300984: FixedWindow175
+    2300986: FixedWindow176
+    2300988: FixedWindow177
+    2300990: FixedWindow178
+    2300992: FixedWindow179
+    2300994: FixedWindow180
+    2300996: FixedWindow181
+    2300998: FixedWindow182
+    2301000: FixedWindow183
+    2301002: FixedWindow184
+    2301004: FixedWindow185
+    2301006: FixedWindow186
+    2301008: FixedWindow187
+    2301010: FixedWindow188
+    2301012: FixedWindow189
+    2301014: FixedWindow190
+    2301016: FixedWindow191
+    2301018: FixedWindow192
+    2301020: FixedWindow193
+    2301022: FixedWindow194
+    2301024: Line001
+    2301026: Line001 1
+    2301028: Line001 2
+    2301030: Line001 3
+    2301032: Line001 4
+    2301034: Line002
+    2301036: Line002 1
+    2301038: Line002 2
+    2301040: Line003
+    2301042: Line003 1
+    2301044: Line003 2
+    2301046: Line004
+    2301048: Line004 1
+    2301050: Line004 2
+    2301052: Line005
+    2301054: Line005 1
+    2301056: Line005 2
+    2301058: Line006
+    2301060: Line006 1
+    2301062: Line006 2
+    2301064: Line007
+    2301066: Line007 1
+    2301068: Line007 2
+    2301070: Line008
+    2301072: Line008 1
+    2301074: Line008 2
+    2301076: Line009
+    2301078: Line009 1
+    2301080: Line009 2
+    2301082: Line009 3
+    2301084: Line010
+    2301086: Line010 1
+    2301088: Line010 2
+    2301090: Line011
+    2301092: Line011 1
+    2301094: Line011 2
+    2301096: Line012
+    2301098: Line012 1
+    2301100: Line012 2
+    2301102: Line013
+    2301104: Line013 1
+    2301106: Line013 2
+    2301108: Line014
+    2301110: Line014 1
+    2301112: Line014 2
+    2301114: Line015
+    2301116: Line015 1
+    2301118: Line015 2
+    2301120: Line016
+    2301122: Line016 1
+    2301124: Line016 2
+    2301126: Line017
+    2301128: Line017 1
+    2301130: Line017 2
+    2301132: Line018
+    2301134: Line018 1
+    2301136: Line018 2
+    2301138: Line019
+    2301140: Line019 1
+    2301142: Line019 2
+    2301144: Line019 3
+    2301146: Line020
+    2301148: Line020 1
+    2301150: Line020 2
+    2301152: Line020 3
+    2301154: Line021
+    2301156: Line021 1
+    2301158: Line021 2
+    2301160: Line021 3
+    2301162: Line022
+    2301164: Line022 1
+    2301166: Line022 2
+    2301168: Line022 3
+    2301170: Line023
+    2301172: Line023 1
+    2301174: Line023 2
+    2301176: Line023 3
+    2301178: Line024
+    2301180: Line024 1
+    2301182: Line024 2
+    2301184: Line024 3
+    2301186: Line025
+    2301188: Line025 1
+    2301190: Line025 2
+    2301192: Line025 3
+    2301194: Line026
+    2301196: Line026 1
+    2301198: Line026 2
+    2301200: Line027
+    2301202: Line027 1
+    2301204: Line027 2
+    2301206: Line027 3
+    2301208: Line028
+    2301210: Line028 1
+    2301212: Line028 2
+    2301214: Line028 3
+    2301216: Line028 4
+    2301218: Line029
+    2301220: Line029 1
+    2301222: Line029 2
+    2301224: Line029 3
+    2301226: Line030
+    2301228: Line030 1
+    2301230: Line030 2
+    2301232: Line030 3
+    2301234: Line031
+    2301236: Line031 1
+    2301238: Line031 2
+    2301240: Line031 3
+    2301242: Line032
+    2301244: Line032 1
+    2301246: Line032 2
+    2301248: Line032 3
+    2301250: Line033
+    2301252: Line033 1
+    2301254: Line033 2
+    2301256: Line033 3
+    2301258: Line034
+    2301260: Line034 1
+    2301262: Line034 2
+    2301264: Line035
+    2301266: Line035 1
+    2301268: Line035 2
+    2301270: Line036
+    2301272: Line036 1
+    2301274: Line036 2
+    2301276: Line037
+    2301278: Line037 1
+    2301280: Line037 2
+    2301282: Line038
+    2301284: Line038 1
+    2301286: Line038 2
+    2301288: Line039
+    2301290: Line039 1
+    2301292: Line039 2
+    2301294: Line040
+    2301296: Line040 1
+    2301298: Line040 2
+    2301300: Line041
+    2301302: Line041 1
+    2301304: Line041 2
+    2301306: Line041 3
+    2301308: Line042
+    2301310: Line042 1
+    2301312: Line042 2
+    2301314: Line043
+    2301316: Line043 1
+    2301318: Line044
+    2301320: Line044 1
+    2301322: Line045
+    2301324: Line045 1
+    2301326: Line046
+    2301328: Line046 1
+    2301330: Line046 2
+    2301332: Line047
+    2301334: Line047 1
+    2301336: Line048
+    2301338: Line048 1
+    2301340: Line049
+    2301342: Line049 1
+    2301344: Line050
+    2301346: Line052
+    2301348: Line053
+    2301350: Line054
+    2301352: Line055
+    2301354: Line056
+    2301356: Object
+    2301358: Object001
+    2301360: Object003
+    2301362: Object005
+    2301364: Object007
+    2301366: Object009
+    2301368: Object011
+    2301370: Object013
+    2301372: Object015
+    2301374: Object017
+    2301376: Object019
+    2301378: Object021
+    2301380: Object023
+    2301382: Object025
+    2301384: Object027
+    2301386: Object029
+    2301388: Object031
+    2301390: Object033
+    2301392: Object035
+    2301394: Object037
+    2301396: Object039
+    2301398: Object041
+    2301400: Object045
+    2301402: Object045 1
+    2301404: Object047
+    2301406: Object049
+    2301408: Object051
+    2301410: Object053
+    2301412: Object055
+    2301414: Object057
+    2301416: Object059
+    2301418: Object061
+    2301420: Object063
+    2301422: Object065
+    2301424: Object066
+    2301426: Object067
+    2301428: PivotDoor005
+    2301430: PivotDoor011
+    2301432: PivotDoor012
+    2301434: PivotDoor012 1
+    2301436: PivotDoor013
+    2301438: PivotDoor014
+    2301440: PivotDoor015
+    2301442: PivotDoor016
+    2301444: PivotDoor017
+    2301446: PivotDoor019
+    2301448: PivotDoor020
+    2301450: PivotDoor021
+    2301452: PivotDoor022
+    2301454: PivotDoor023
+    2301456: PivotDoor024
+    2301458: PivotDoor024 1
+    2301460: PivotDoor025
+    2301462: PivotDoor026
+    2301464: PivotDoor027
+    2301466: PivotDoor028
+    2301468: PivotDoor029
+    2301470: PivotDoor031
+    2301472: PivotDoor032
+    2301474: PivotDoor033
+    2301476: PivotDoor033 1
+    2301478: PivotDoor034
+    2301480: PivotDoor034 1
+    2301482: PivotDoor035
+    2301484: PivotDoor035 1
+    2301486: PivotDoor036
+    2301488: PivotDoor036 1
+    2301490: PivotDoor037
+    2301492: PivotDoor037 1
+    2301494: PivotDoor038
+    2301496: PivotDoor038 1
+    2301498: PivotDoor039
+    2301500: PivotDoor039 1
+    2301502: PivotDoor040
+    2301504: PivotDoor040 1
+    2301506: PivotDoor041
+    2301508: PivotDoor041 1
+    2301510: PivotDoor042
+    2301512: PivotDoor042 1
+    2301514: PivotDoor043
+    2301516: PivotDoor043 1
+    2301518: PivotDoor044
+    2301520: PivotDoor044 1
+    2301522: PivotDoor045
+    2301524: PivotDoor046
+    2301526: PivotDoor047
+    2301528: PivotDoor048
+    2301530: PivotDoor049
+    2301532: PivotDoor050
+    2301534: PivotDoor051
+    2301536: PivotDoor052
+    2301538: PivotDoor053
+    2301540: PivotDoor054
+    2301542: PivotDoor055
+    2301544: PivotDoor056
+    2301546: PivotDoor057
+    2301548: PivotDoor058
+    2301550: PivotDoor059
+    2301552: PivotDoor060
+    2301554: PivotDoor061
+    2301556: PivotDoor062
+    2301558: PivotDoor063
+    2301560: PivotDoor064
+    2301562: PivotDoor066
+    2301564: PivotDoor067
+    2301566: PivotDoor068
+    2301568: PivotDoor069
+    2301570: PivotDoor070
+    2301572: PivotDoor072
+    2301574: PivotDoor073
+    2301576: PivotDoor074
+    2301578: PivotDoor075
+    2301580: PivotDoor076
+    2301582: PivotDoor077
+    2301584: PivotDoor078
+    2301586: PivotDoor079
+    2301588: PivotDoor080
+    2301590: PivotDoor081
+    2301592: PivotDoor082
+    2301594: PivotDoor083
+    2301596: PivotDoor084
+    2301598: PivotDoor085
+    2301600: PivotDoor086
+    2301602: PivotDoor087
+    2301604: PivotDoor088
+    2301606: PivotDoor089
+    2301608: PivotDoor090
+    2301610: PivotDoor091
+    2301612: PivotDoor092
+    2301614: PivotDoor093
+    2301616: PivotDoor094
+    2301618: PivotDoor096
+    2301620: PivotDoor097
+    2301622: PivotDoor098
+    2301624: PivotDoor099
+    2301626: PivotDoor100
+    2301628: PivotDoor101
+    2301630: PivotDoor102
+    2301632: ProjectedWindow001
+    2301634: SlidingDoor001
+    2301636: SlidingDoor002
+    2301638: SlidingDoor003
+    2301640: SlidingDoor004
+    2301642: SlidingWindow001
+    2301644: SlidingWindow002
+    2301646: StraightStair001
+    2301648: StraightStair002
+    2301650: StraightStair003
+    2301652: StraightStair004
+    2301654: StraightStair005
+    2301656: StraightStair007
+    2301658: StraightStair008
+    2301660: StraightStair009
+    2301662: StraightStair010
+    2301664: StraightStair011
+    2301666: StraightStair012
+    2301668: StraightStair013
+    2301670: StraightStair014
+    2301672: StraightStair015
+    2301674: StraightStair016
+    2301676: StraightStair017
+    2301678: SzraightStair006
+    3300000: Box001
+    3300002: Box002
+    3300004: Box003
+    3300006: Box004
+    3300008: Box005
+    3300010: CasementWindow001
+    3300012: CasementWindow002
+    3300014: CasementWindow003
+    3300016: CasementWindow004
+    3300018: CasementWindow005
+    3300020: CasementWindow006
+    3300022: CasementWindow007
+    3300024: Cylinder001
+    3300026: Cylinder001 1
+    3300028: Cylinder001 2
+    3300030: Cylinder001 3
+    3300032: Cylinder001 4
+    3300034: Cylinder002
+    3300036: Cylinder002 1
+    3300038: Cylinder002 2
+    3300040: Cylinder002 3
+    3300042: Cylinder002 4
+    3300044: Cylinder003
+    3300046: Cylinder003 1
+    3300048: Cylinder003 2
+    3300050: Cylinder003 3
+    3300052: Cylinder003 4
+    3300054: Cylinder004
+    3300056: Cylinder004 1
+    3300058: Cylinder004 2
+    3300060: Cylinder004 3
+    3300062: Cylinder004 4
+    3300064: Cylinder005
+    3300066: Cylinder005 1
+    3300068: Cylinder005 2
+    3300070: Cylinder005 3
+    3300072: Cylinder005 4
+    3300074: Cylinder006
+    3300076: Cylinder006 1
+    3300078: Cylinder006 2
+    3300080: Cylinder006 3
+    3300082: Cylinder006 4
+    3300084: Cylinder007
+    3300086: Cylinder007 1
+    3300088: Cylinder007 2
+    3300090: Cylinder007 3
+    3300092: Cylinder007 4
+    3300094: Cylinder008
+    3300096: Cylinder008 1
+    3300098: Cylinder008 2
+    3300100: Cylinder008 3
+    3300102: Cylinder008 4
+    3300104: Cylinder009
+    3300106: Cylinder009 1
+    3300108: Cylinder009 2
+    3300110: Cylinder009 3
+    3300112: Cylinder009 4
+    3300114: Cylinder010
+    3300116: Cylinder010 1
+    3300118: Cylinder010 2
+    3300120: Cylinder010 3
+    3300122: Cylinder010 4
+    3300124: Cylinder011
+    3300126: Cylinder012
+    3300128: Cylinder012 1
+    3300130: Cylinder012 2
+    3300132: Cylinder012 3
+    3300134: Cylinder012 4
+    3300136: Cylinder013
+    3300138: Cylinder014
+    3300140: Cylinder015
+    3300142: Cylinder016
+    3300144: Cylinder016 1
+    3300146: Cylinder016 2
+    3300148: Cylinder016 3
+    3300150: Cylinder016 4
+    3300152: Cylinder017
+    3300154: Cylinder017 1
+    3300156: Cylinder017 2
+    3300158: Cylinder017 3
+    3300160: Cylinder017 4
+    3300162: Cylinder018
+    3300164: Cylinder018 1
+    3300166: Cylinder018 2
+    3300168: Cylinder018 3
+    3300170: Cylinder018 4
+    3300172: Cylinder019
+    3300174: Cylinder019 1
+    3300176: Cylinder019 2
+    3300178: Cylinder019 3
+    3300180: Cylinder019 4
+    3300182: Cylinder020
+    3300184: Cylinder020 1
+    3300186: Cylinder020 2
+    3300188: Cylinder020 3
+    3300190: Cylinder020 4
+    3300192: Cylinder021
+    3300194: Cylinder021 1
+    3300196: Cylinder021 2
+    3300198: Cylinder021 3
+    3300200: Cylinder021 4
+    3300202: Cylinder022
+    3300204: Cylinder022 1
+    3300206: Cylinder022 2
+    3300208: Cylinder022 3
+    3300210: Cylinder022 4
+    3300212: Cylinder023
+    3300214: Cylinder024
+    3300216: Cylinder025
+    3300218: Cylinder026
+    3300220: Cylinder027
+    3300222: Cylinder027 1
+    3300224: Cylinder027 2
+    3300226: Cylinder027 3
+    3300228: Cylinder027 4
+    3300230: Cylinder028
+    3300232: Cylinder028 1
+    3300234: Cylinder028 2
+    3300236: Cylinder028 3
+    3300238: Cylinder028 4
+    3300240: Cylinder029
+    3300242: Cylinder029 1
+    3300244: Cylinder029 2
+    3300246: Cylinder029 3
+    3300248: Cylinder029 4
+    3300250: Cylinder030
+    3300252: Cylinder030 1
+    3300254: Cylinder030 2
+    3300256: Cylinder030 3
+    3300258: Cylinder030 4
+    3300260: Cylinder031
+    3300262: Cylinder031 1
+    3300264: Cylinder031 2
+    3300266: Cylinder031 3
+    3300268: Cylinder032
+    3300270: Cylinder032 1
+    3300272: Cylinder032 2
+    3300274: Cylinder033
+    3300276: Cylinder033 1
+    3300278: Cylinder033 2
+    3300280: Cylinder033 3
+    3300282: Cylinder034
+    3300284: Cylinder034 1
+    3300286: Cylinder034 2
+    3300288: Cylinder034 3
+    3300290: Cylinder035
+    3300292: Cylinder035 1
+    3300294: Cylinder035 2
+    3300296: Cylinder035 3
+    3300298: Cylinder036
+    3300300: Cylinder036 1
+    3300302: Cylinder036 2
+    3300304: Cylinder036 3
+    3300306: Cylinder036 4
+    3300308: Cylinder037
+    3300310: Cylinder037 1
+    3300312: Cylinder037 2
+    3300314: Cylinder037 3
+    3300316: Cylinder037 4
+    3300318: Cylinder038
+    3300320: Cylinder038 1
+    3300322: Cylinder038 2
+    3300324: Cylinder038 3
+    3300326: Cylinder038 4
+    3300328: Cylinder039
+    3300330: Cylinder039 1
+    3300332: Cylinder039 2
+    3300334: Cylinder039 3
+    3300336: Cylinder039 4
+    3300338: Cylinder040
+    3300340: Cylinder040 1
+    3300342: Cylinder040 2
+    3300344: Cylinder040 3
+    3300346: Cylinder040 4
+    3300348: Cylinder041
+    3300350: Cylinder041 1
+    3300352: Cylinder041 2
+    3300354: Cylinder041 3
+    3300356: Cylinder042
+    3300358: Cylinder042 1
+    3300360: Cylinder042 2
+    3300362: Cylinder042 3
+    3300364: Cylinder042 4
+    3300366: Cylinder043
+    3300368: Cylinder043 1
+    3300370: Cylinder043 2
+    3300372: Cylinder043 3
+    3300374: Cylinder044
+    3300376: Cylinder044 1
+    3300378: Cylinder044 2
+    3300380: Cylinder044 3
+    3300382: Cylinder045
+    3300384: Cylinder045 1
+    3300386: Cylinder045 2
+    3300388: Cylinder045 3
+    3300390: Cylinder046
+    3300392: Cylinder046 1
+    3300394: Cylinder046 2
+    3300396: Cylinder046 3
+    3300398: Cylinder047
+    3300400: Cylinder047 1
+    3300402: Cylinder047 2
+    3300404: Cylinder047 3
+    3300406: Cylinder047 4
+    3300408: Cylinder048
+    3300410: Cylinder048 1
+    3300412: Cylinder048 2
+    3300414: Cylinder048 3
+    3300416: Cylinder048 4
+    3300418: Cylinder049
+    3300420: Cylinder049 1
+    3300422: Cylinder049 2
+    3300424: Cylinder049 3
+    3300426: Cylinder049 4
+    3300428: Cylinder050
+    3300430: Cylinder050 1
+    3300432: Cylinder050 2
+    3300434: Cylinder050 3
+    3300436: Cylinder051
+    3300438: Cylinder051 1
+    3300440: Cylinder051 2
+    3300442: Cylinder051 3
+    3300444: Cylinder052
+    3300446: Cylinder052 1
+    3300448: Cylinder052 2
+    3300450: Cylinder052 3
+    3300452: Cylinder053
+    3300454: Cylinder053 1
+    3300456: Cylinder053 2
+    3300458: Cylinder054
+    3300460: Cylinder054 1
+    3300462: Cylinder054 2
+    3300464: Cylinder055
+    3300466: Cylinder055 1
+    3300468: Cylinder055 2
+    3300470: Cylinder056
+    3300472: Cylinder057
+    3300474: FixedWindow001
+    3300476: FixedWindow002
+    3300478: FixedWindow002 1
+    3300480: FixedWindow003
+    3300482: FixedWindow003 1
+    3300484: FixedWindow003 2
+    3300486: FixedWindow004
+    3300488: FixedWindow004 1
+    3300490: FixedWindow004 2
+    3300492: FixedWindow005
+    3300494: FixedWindow005 1
+    3300496: FixedWindow005 2
+    3300498: FixedWindow006
+    3300500: FixedWindow006 1
+    3300502: FixedWindow006 2
+    3300504: FixedWindow007
+    3300506: FixedWindow007 1
+    3300508: FixedWindow007 2
+    3300510: FixedWindow008
+    3300512: FixedWindow008 1
+    3300514: FixedWindow008 2
+    3300516: FixedWindow009
+    3300518: FixedWindow009 1
+    3300520: FixedWindow009 2
+    3300522: FixedWindow010
+    3300524: FixedWindow010 1
+    3300526: FixedWindow010 2
+    3300528: FixedWindow011
+    3300530: FixedWindow011 1
+    3300532: FixedWindow011 2
+    3300534: FixedWindow012
+    3300536: FixedWindow012 1
+    3300538: FixedWindow012 2
+    3300540: FixedWindow013
+    3300542: FixedWindow013 1
+    3300544: FixedWindow013 2
+    3300546: FixedWindow014
+    3300548: FixedWindow014 1
+    3300550: FixedWindow014 2
+    3300552: FixedWindow015
+    3300554: FixedWindow015 1
+    3300556: FixedWindow015 2
+    3300558: FixedWindow016
+    3300560: FixedWindow016 1
+    3300562: FixedWindow016 2
+    3300564: FixedWindow017
+    3300566: FixedWindow017 1
+    3300568: FixedWindow017 2
+    3300570: FixedWindow018
+    3300572: FixedWindow018 1
+    3300574: FixedWindow018 2
+    3300576: FixedWindow019
+    3300578: FixedWindow019 1
+    3300580: FixedWindow019 2
+    3300582: FixedWindow020
+    3300584: FixedWindow020 1
+    3300586: FixedWindow020 2
+    3300588: FixedWindow021
+    3300590: FixedWindow021 1
+    3300592: FixedWindow021 2
+    3300594: FixedWindow022
+    3300596: FixedWindow022 1
+    3300598: FixedWindow022 2
+    3300600: FixedWindow023
+    3300602: FixedWindow023 1
+    3300604: FixedWindow023 2
+    3300606: FixedWindow024
+    3300608: FixedWindow024 1
+    3300610: FixedWindow024 2
+    3300612: FixedWindow025
+    3300614: FixedWindow025 1
+    3300616: FixedWindow025 2
+    3300618: FixedWindow026
+    3300620: FixedWindow026 1
+    3300622: FixedWindow026 2
+    3300624: FixedWindow027
+    3300626: FixedWindow027 1
+    3300628: FixedWindow027 2
+    3300630: FixedWindow028
+    3300632: FixedWindow028 1
+    3300634: FixedWindow028 2
+    3300636: FixedWindow029
+    3300638: FixedWindow029 1
+    3300640: FixedWindow029 2
+    3300642: FixedWindow030
+    3300644: FixedWindow030 1
+    3300646: FixedWindow030 2
+    3300648: FixedWindow031
+    3300650: FixedWindow031 1
+    3300652: FixedWindow031 2
+    3300654: FixedWindow032
+    3300656: FixedWindow032 1
+    3300658: FixedWindow032 2
+    3300660: FixedWindow033
+    3300662: FixedWindow033 1
+    3300664: FixedWindow033 2
+    3300666: FixedWindow034
+    3300668: FixedWindow034 1
+    3300670: FixedWindow034 2
+    3300672: FixedWindow035
+    3300674: FixedWindow035 1
+    3300676: FixedWindow035 2
+    3300678: FixedWindow036
+    3300680: FixedWindow036 1
+    3300682: FixedWindow036 2
+    3300684: FixedWindow037
+    3300686: FixedWindow037 1
+    3300688: FixedWindow038
+    3300690: FixedWindow038 1
+    3300692: FixedWindow039
+    3300694: FixedWindow039 1
+    3300696: FixedWindow040
+    3300698: FixedWindow040 1
+    3300700: FixedWindow041
+    3300702: FixedWindow041 1
+    3300704: FixedWindow042
+    3300706: FixedWindow042 1
+    3300708: FixedWindow043
+    3300710: FixedWindow043 1
+    3300712: FixedWindow044
+    3300714: FixedWindow044 1
+    3300716: FixedWindow045
+    3300718: FixedWindow045 1
+    3300720: FixedWindow046
+    3300722: FixedWindow046 1
+    3300724: FixedWindow047
+    3300726: FixedWindow047 1
+    3300728: FixedWindow048
+    3300730: FixedWindow048 1
+    3300732: FixedWindow049
+    3300734: FixedWindow050
+    3300736: FixedWindow051
+    3300738: FixedWindow052
+    3300740: FixedWindow053
+    3300742: FixedWindow054
+    3300744: FixedWindow055
+    3300746: FixedWindow056
+    3300748: FixedWindow057
+    3300750: FixedWindow058
+    3300752: FixedWindow059
+    3300754: FixedWindow060
+    3300756: FixedWindow061
+    3300758: FixedWindow062
+    3300760: FixedWindow063
+    3300762: FixedWindow064
+    3300764: FixedWindow065
+    3300766: FixedWindow066
+    3300768: FixedWindow067
+    3300770: FixedWindow068
+    3300772: FixedWindow069
+    3300774: FixedWindow070
+    3300776: FixedWindow071
+    3300778: FixedWindow072
+    3300780: FixedWindow073
+    3300782: FixedWindow074
+    3300784: FixedWindow075
+    3300786: FixedWindow076
+    3300788: FixedWindow077
+    3300790: FixedWindow078
+    3300792: FixedWindow079
+    3300794: FixedWindow080
+    3300796: FixedWindow081
+    3300798: FixedWindow082
+    3300800: FixedWindow083
+    3300802: FixedWindow084
+    3300804: FixedWindow085
+    3300806: FixedWindow086
+    3300808: FixedWindow087
+    3300810: FixedWindow088
+    3300812: FixedWindow089
+    3300814: FixedWindow090
+    3300816: FixedWindow091
+    3300818: FixedWindow092
+    3300820: FixedWindow093
+    3300822: FixedWindow094
+    3300824: FixedWindow095
+    3300826: FixedWindow096
+    3300828: FixedWindow097
+    3300830: FixedWindow098
+    3300832: FixedWindow099
+    3300834: FixedWindow100
+    3300836: FixedWindow101
+    3300838: FixedWindow102
+    3300840: FixedWindow103
+    3300842: FixedWindow104
+    3300844: FixedWindow105
+    3300846: FixedWindow106
+    3300848: FixedWindow107
+    3300850: FixedWindow108
+    3300852: FixedWindow109
+    3300854: FixedWindow110
+    3300856: FixedWindow111
+    3300858: FixedWindow112
+    3300860: FixedWindow113
+    3300862: FixedWindow114
+    3300864: FixedWindow115
+    3300866: FixedWindow116
+    3300868: FixedWindow117
+    3300870: FixedWindow118
+    3300872: FixedWindow119
+    3300874: FixedWindow120
+    3300876: FixedWindow121
+    3300878: FixedWindow122
+    3300880: FixedWindow123
+    3300882: FixedWindow124
+    3300884: FixedWindow125
+    3300886: FixedWindow126
+    3300888: FixedWindow127
+    3300890: FixedWindow128
+    3300892: FixedWindow129
+    3300894: FixedWindow130
+    3300896: FixedWindow131
+    3300898: FixedWindow132
+    3300900: FixedWindow133
+    3300902: FixedWindow134
+    3300904: FixedWindow135
+    3300906: FixedWindow136
+    3300908: FixedWindow137
+    3300910: FixedWindow138
+    3300912: FixedWindow139
+    3300914: FixedWindow140
+    3300916: FixedWindow141
+    3300918: FixedWindow142
+    3300920: FixedWindow143
+    3300922: FixedWindow144
+    3300924: FixedWindow145
+    3300926: FixedWindow146
+    3300928: FixedWindow147
+    3300930: FixedWindow148
+    3300932: FixedWindow149
+    3300934: FixedWindow150
+    3300936: FixedWindow151
+    3300938: FixedWindow152
+    3300940: FixedWindow153
+    3300942: FixedWindow154
+    3300944: FixedWindow155
+    3300946: FixedWindow156
+    3300948: FixedWindow157
+    3300950: FixedWindow158
+    3300952: FixedWindow159
+    3300954: FixedWindow160
+    3300956: FixedWindow161
+    3300958: FixedWindow162
+    3300960: FixedWindow163
+    3300962: FixedWindow164
+    3300964: FixedWindow165
+    3300966: FixedWindow166
+    3300968: FixedWindow167
+    3300970: FixedWindow168
+    3300972: FixedWindow169
+    3300974: FixedWindow170
+    3300976: FixedWindow171
+    3300978: FixedWindow172
+    3300980: FixedWindow173
+    3300982: FixedWindow174
+    3300984: FixedWindow175
+    3300986: FixedWindow176
+    3300988: FixedWindow177
+    3300990: FixedWindow178
+    3300992: FixedWindow179
+    3300994: FixedWindow180
+    3300996: FixedWindow181
+    3300998: FixedWindow182
+    3301000: FixedWindow183
+    3301002: FixedWindow184
+    3301004: FixedWindow185
+    3301006: FixedWindow186
+    3301008: FixedWindow187
+    3301010: FixedWindow188
+    3301012: FixedWindow189
+    3301014: FixedWindow190
+    3301016: FixedWindow191
+    3301018: FixedWindow192
+    3301020: FixedWindow193
+    3301022: FixedWindow194
+    3301024: Line001
+    3301026: Line001 1
+    3301028: Line001 2
+    3301030: Line001 3
+    3301032: Line001 4
+    3301034: Line002
+    3301036: Line002 1
+    3301038: Line002 2
+    3301040: Line003
+    3301042: Line003 1
+    3301044: Line003 2
+    3301046: Line004
+    3301048: Line004 1
+    3301050: Line004 2
+    3301052: Line005
+    3301054: Line005 1
+    3301056: Line005 2
+    3301058: Line006
+    3301060: Line006 1
+    3301062: Line006 2
+    3301064: Line007
+    3301066: Line007 1
+    3301068: Line007 2
+    3301070: Line008
+    3301072: Line008 1
+    3301074: Line008 2
+    3301076: Line009
+    3301078: Line009 1
+    3301080: Line009 2
+    3301082: Line009 3
+    3301084: Line010
+    3301086: Line010 1
+    3301088: Line010 2
+    3301090: Line011
+    3301092: Line011 1
+    3301094: Line011 2
+    3301096: Line012
+    3301098: Line012 1
+    3301100: Line012 2
+    3301102: Line013
+    3301104: Line013 1
+    3301106: Line013 2
+    3301108: Line014
+    3301110: Line014 1
+    3301112: Line014 2
+    3301114: Line015
+    3301116: Line015 1
+    3301118: Line015 2
+    3301120: Line016
+    3301122: Line016 1
+    3301124: Line016 2
+    3301126: Line017
+    3301128: Line017 1
+    3301130: Line017 2
+    3301132: Line018
+    3301134: Line018 1
+    3301136: Line018 2
+    3301138: Line019
+    3301140: Line019 1
+    3301142: Line019 2
+    3301144: Line019 3
+    3301146: Line020
+    3301148: Line020 1
+    3301150: Line020 2
+    3301152: Line020 3
+    3301154: Line021
+    3301156: Line021 1
+    3301158: Line021 2
+    3301160: Line021 3
+    3301162: Line022
+    3301164: Line022 1
+    3301166: Line022 2
+    3301168: Line022 3
+    3301170: Line023
+    3301172: Line023 1
+    3301174: Line023 2
+    3301176: Line023 3
+    3301178: Line024
+    3301180: Line024 1
+    3301182: Line024 2
+    3301184: Line024 3
+    3301186: Line025
+    3301188: Line025 1
+    3301190: Line025 2
+    3301192: Line025 3
+    3301194: Line026
+    3301196: Line026 1
+    3301198: Line026 2
+    3301200: Line027
+    3301202: Line027 1
+    3301204: Line027 2
+    3301206: Line027 3
+    3301208: Line028
+    3301210: Line028 1
+    3301212: Line028 2
+    3301214: Line028 3
+    3301216: Line028 4
+    3301218: Line029
+    3301220: Line029 1
+    3301222: Line029 2
+    3301224: Line029 3
+    3301226: Line030
+    3301228: Line030 1
+    3301230: Line030 2
+    3301232: Line030 3
+    3301234: Line031
+    3301236: Line031 1
+    3301238: Line031 2
+    3301240: Line031 3
+    3301242: Line032
+    3301244: Line032 1
+    3301246: Line032 2
+    3301248: Line032 3
+    3301250: Line033
+    3301252: Line033 1
+    3301254: Line033 2
+    3301256: Line033 3
+    3301258: Line034
+    3301260: Line034 1
+    3301262: Line034 2
+    3301264: Line035
+    3301266: Line035 1
+    3301268: Line035 2
+    3301270: Line036
+    3301272: Line036 1
+    3301274: Line036 2
+    3301276: Line037
+    3301278: Line037 1
+    3301280: Line037 2
+    3301282: Line038
+    3301284: Line038 1
+    3301286: Line038 2
+    3301288: Line039
+    3301290: Line039 1
+    3301292: Line039 2
+    3301294: Line040
+    3301296: Line040 1
+    3301298: Line040 2
+    3301300: Line041
+    3301302: Line041 1
+    3301304: Line041 2
+    3301306: Line041 3
+    3301308: Line042
+    3301310: Line042 1
+    3301312: Line042 2
+    3301314: Line043
+    3301316: Line043 1
+    3301318: Line044
+    3301320: Line044 1
+    3301322: Line045
+    3301324: Line045 1
+    3301326: Line046
+    3301328: Line046 1
+    3301330: Line046 2
+    3301332: Line047
+    3301334: Line047 1
+    3301336: Line048
+    3301338: Line048 1
+    3301340: Line049
+    3301342: Line049 1
+    3301344: Line050
+    3301346: Line052
+    3301348: Line053
+    3301350: Line054
+    3301352: Line055
+    3301354: Line056
+    3301356: Object
+    3301358: Object001
+    3301360: Object003
+    3301362: Object005
+    3301364: Object007
+    3301366: Object009
+    3301368: Object011
+    3301370: Object013
+    3301372: Object015
+    3301374: Object017
+    3301376: Object019
+    3301378: Object021
+    3301380: Object023
+    3301382: Object025
+    3301384: Object027
+    3301386: Object029
+    3301388: Object031
+    3301390: Object033
+    3301392: Object035
+    3301394: Object037
+    3301396: Object039
+    3301398: Object041
+    3301400: Object045
+    3301402: Object045 1
+    3301404: Object047
+    3301406: Object049
+    3301408: Object051
+    3301410: Object053
+    3301412: Object055
+    3301414: Object057
+    3301416: Object059
+    3301418: Object061
+    3301420: Object063
+    3301422: Object065
+    3301424: Object066
+    3301426: Object067
+    3301428: PivotDoor005
+    3301430: PivotDoor011
+    3301432: PivotDoor012
+    3301434: PivotDoor012 1
+    3301436: PivotDoor013
+    3301438: PivotDoor014
+    3301440: PivotDoor015
+    3301442: PivotDoor016
+    3301444: PivotDoor017
+    3301446: PivotDoor019
+    3301448: PivotDoor020
+    3301450: PivotDoor021
+    3301452: PivotDoor022
+    3301454: PivotDoor023
+    3301456: PivotDoor024
+    3301458: PivotDoor024 1
+    3301460: PivotDoor025
+    3301462: PivotDoor026
+    3301464: PivotDoor027
+    3301466: PivotDoor028
+    3301468: PivotDoor029
+    3301470: PivotDoor031
+    3301472: PivotDoor032
+    3301474: PivotDoor033
+    3301476: PivotDoor033 1
+    3301478: PivotDoor034
+    3301480: PivotDoor034 1
+    3301482: PivotDoor035
+    3301484: PivotDoor035 1
+    3301486: PivotDoor036
+    3301488: PivotDoor036 1
+    3301490: PivotDoor037
+    3301492: PivotDoor037 1
+    3301494: PivotDoor038
+    3301496: PivotDoor038 1
+    3301498: PivotDoor039
+    3301500: PivotDoor039 1
+    3301502: PivotDoor040
+    3301504: PivotDoor040 1
+    3301506: PivotDoor041
+    3301508: PivotDoor041 1
+    3301510: PivotDoor042
+    3301512: PivotDoor042 1
+    3301514: PivotDoor043
+    3301516: PivotDoor043 1
+    3301518: PivotDoor044
+    3301520: PivotDoor044 1
+    3301522: PivotDoor045
+    3301524: PivotDoor046
+    3301526: PivotDoor047
+    3301528: PivotDoor048
+    3301530: PivotDoor049
+    3301532: PivotDoor050
+    3301534: PivotDoor051
+    3301536: PivotDoor052
+    3301538: PivotDoor053
+    3301540: PivotDoor054
+    3301542: PivotDoor055
+    3301544: PivotDoor056
+    3301546: PivotDoor057
+    3301548: PivotDoor058
+    3301550: PivotDoor059
+    3301552: PivotDoor060
+    3301554: PivotDoor061
+    3301556: PivotDoor062
+    3301558: PivotDoor063
+    3301560: PivotDoor064
+    3301562: PivotDoor066
+    3301564: PivotDoor067
+    3301566: PivotDoor068
+    3301568: PivotDoor069
+    3301570: PivotDoor070
+    3301572: PivotDoor072
+    3301574: PivotDoor073
+    3301576: PivotDoor074
+    3301578: PivotDoor075
+    3301580: PivotDoor076
+    3301582: PivotDoor077
+    3301584: PivotDoor078
+    3301586: PivotDoor079
+    3301588: PivotDoor080
+    3301590: PivotDoor081
+    3301592: PivotDoor082
+    3301594: PivotDoor083
+    3301596: PivotDoor084
+    3301598: PivotDoor085
+    3301600: PivotDoor086
+    3301602: PivotDoor087
+    3301604: PivotDoor088
+    3301606: PivotDoor089
+    3301608: PivotDoor090
+    3301610: PivotDoor091
+    3301612: PivotDoor092
+    3301614: PivotDoor093
+    3301616: PivotDoor094
+    3301618: PivotDoor096
+    3301620: PivotDoor097
+    3301622: PivotDoor098
+    3301624: PivotDoor099
+    3301626: PivotDoor100
+    3301628: PivotDoor101
+    3301630: PivotDoor102
+    3301632: ProjectedWindow001
+    3301634: SlidingDoor001
+    3301636: SlidingDoor002
+    3301638: SlidingDoor003
+    3301640: SlidingDoor004
+    3301642: SlidingWindow001
+    3301644: SlidingWindow002
+    3301646: StraightStair001
+    3301648: StraightStair002
+    3301650: StraightStair003
+    3301652: StraightStair004
+    3301654: StraightStair005
+    3301656: StraightStair007
+    3301658: StraightStair008
+    3301660: StraightStair009
+    3301662: StraightStair010
+    3301664: StraightStair011
+    3301666: StraightStair012
+    3301668: StraightStair013
+    3301670: StraightStair014
+    3301672: StraightStair015
+    3301674: StraightStair016
+    3301676: StraightStair017
+    3301678: SzraightStair006
+    4300000: StraightStair003
+    4300002: StraightStair002
+    4300004: StraightStair001
+    4300006: SlidingWindow002
+    4300008: SlidingWindow001
+    4300010: SlidingDoor004
+    4300012: SlidingDoor003
+    4300014: SlidingDoor002
+    4300016: SlidingDoor001
+    4300018: ProjectedWindow001
+    4300020: PivotDoor044
+    4300022: PivotDoor043
+    4300024: PivotDoor042
+    4300026: PivotDoor041
+    4300028: PivotDoor040
+    4300030: PivotDoor039
+    4300032: PivotDoor038
+    4300034: PivotDoor037
+    4300036: PivotDoor036
+    4300038: PivotDoor035
+    4300040: PivotDoor034
+    4300042: PivotDoor033
+    4300044: PivotDoor032
+    4300046: PivotDoor031
+    4300048: PivotDoor029
+    4300050: PivotDoor028
+    4300052: PivotDoor027
+    4300054: PivotDoor026
+    4300056: PivotDoor025
+    4300058: PivotDoor024
+    4300060: PivotDoor023
+    4300062: PivotDoor022
+    4300064: PivotDoor021
+    4300066: PivotDoor020
+    4300068: PivotDoor019
+    4300070: PivotDoor017
+    4300072: PivotDoor016
+    4300074: PivotDoor015
+    4300076: PivotDoor014
+    4300078: PivotDoor013
+    4300080: PivotDoor012
+    4300082: PivotDoor011
+    4300084: PivotDoor005
+    4300086: Object041
+    4300088: Object039
+    4300090: Object037
+    4300092: Object035
+    4300094: Object033
+    4300096: Object031
+    4300098: Object029
+    4300100: Object027
+    4300102: Object025
+    4300104: Object023
+    4300106: Object021
+    4300108: Object019
+    4300110: Object017
+    4300112: Object015
+    4300114: Object013
+    4300116: Object011
+    4300118: Object009
+    4300120: Object007
+    4300122: Object005
+    4300124: Object003
+    4300126: Object001
+    4300128: Object
+    4300130: Line042
+    4300132: Line041
+    4300134: Line040
+    4300136: Line039
+    4300138: Line038
+    4300140: Line037
+    4300142: Line036
+    4300144: Line035
+    4300146: Line034
+    4300148: Line033
+    4300150: Line032
+    4300152: Line031
+    4300154: Line030
+    4300156: Line029
+    4300158: Line028
+    4300160: Line027
+    4300162: Line025
+    4300164: Line024
+    4300166: Line023
+    4300168: Line022
+    4300170: Line021
+    4300172: Line020
+    4300174: Line019
+    4300176: Line018
+    4300178: Line017
+    4300180: Line016
+    4300182: Line015
+    4300184: Line014
+    4300186: Line013
+    4300188: Line012
+    4300190: Line011
+    4300192: Line010
+    4300194: Line009
+    4300196: Line008
+    4300198: Line007
+    4300200: Line006
+    4300202: Line005
+    4300204: Line004
+    4300206: Line003
+    4300208: Line002
+    4300210: Line001
+    4300212: FixedWindow036
+    4300214: FixedWindow035
+    4300216: FixedWindow034
+    4300218: FixedWindow033
+    4300220: FixedWindow032
+    4300222: FixedWindow031
+    4300224: FixedWindow030
+    4300226: FixedWindow029
+    4300228: FixedWindow028
+    4300230: FixedWindow027
+    4300232: FixedWindow026
+    4300234: FixedWindow025
+    4300236: FixedWindow024
+    4300238: FixedWindow023
+    4300240: FixedWindow022
+    4300242: FixedWindow021
+    4300244: FixedWindow020
+    4300246: FixedWindow019
+    4300248: FixedWindow018
+    4300250: FixedWindow017
+    4300252: FixedWindow016
+    4300254: FixedWindow015
+    4300256: FixedWindow014
+    4300258: FixedWindow013
+    4300260: FixedWindow012
+    4300262: FixedWindow011
+    4300264: FixedWindow010
+    4300266: FixedWindow009
+    4300268: FixedWindow008
+    4300270: FixedWindow007
+    4300272: FixedWindow006
+    4300274: FixedWindow005
+    4300276: FixedWindow004
+    4300278: FixedWindow003
+    4300280: FixedWindow002
+    4300282: FixedWindow001
+    4300284: Cylinder057
+    4300286: Cylinder056
+    4300288: Cylinder055
+    4300290: Cylinder054
+    4300292: Cylinder053
+    4300294: Cylinder052
+    4300296: Cylinder051
+    4300298: Cylinder050
+    4300300: Cylinder049
+    4300302: Cylinder048
+    4300304: Cylinder047
+    4300306: Cylinder046
+    4300308: Cylinder045
+    4300310: Cylinder044
+    4300312: Cylinder043
+    4300314: Cylinder042
+    4300316: Cylinder041
+    4300318: Cylinder040
+    4300320: Cylinder039
+    4300322: Cylinder038
+    4300324: Cylinder037
+    4300326: Cylinder036
+    4300328: Cylinder035
+    4300330: Cylinder034
+    4300332: Cylinder033
+    4300334: Cylinder031
+    4300336: Cylinder030
+    4300338: Cylinder029
+    4300340: Cylinder028
+    4300342: Cylinder027
+    4300344: Cylinder026
+    4300346: Cylinder025
+    4300348: Cylinder024
+    4300350: Cylinder023
+    4300352: Cylinder022
+    4300354: Cylinder021
+    4300356: Cylinder020
+    4300358: Cylinder019
+    4300360: Cylinder018
+    4300362: Cylinder017
+    4300364: Cylinder016
+    4300366: Cylinder015
+    4300368: Cylinder014
+    4300370: Cylinder013
+    4300372: Cylinder012
+    4300374: Cylinder011
+    4300376: Cylinder010
+    4300378: Cylinder009
+    4300380: Cylinder008
+    4300382: Cylinder007
+    4300384: Cylinder006
+    4300386: Cylinder005
+    4300388: Cylinder004
+    4300390: Cylinder003
+    4300392: Cylinder002
+    4300394: Cylinder001
+    4300396: CasementWindow007
+    4300398: CasementWindow006
+    4300400: CasementWindow005
+    4300402: CasementWindow004
+    4300404: CasementWindow003
+    4300406: CasementWindow002
+    4300408: CasementWindow001
+    4300410: Box002
+    4300412: Box001
+    4300414: StraightStair004
+    4300416: StraightStair005
+    4300418: SzraightStair006
+    4300420: StraightStair007
+    4300422: PivotDoor061
+    4300424: PivotDoor060
+    4300426: PivotDoor059
+    4300428: PivotDoor058
+    4300430: PivotDoor057
+    4300432: PivotDoor056
+    4300434: PivotDoor055
+    4300436: PivotDoor054
+    4300438: PivotDoor053
+    4300440: PivotDoor052
+    4300442: PivotDoor051
+    4300444: PivotDoor050
+    4300446: PivotDoor049
+    4300448: PivotDoor048
+    4300450: PivotDoor047
+    4300452: PivotDoor046
+    4300454: PivotDoor045
+    4300456: PivotDoor044
+    4300458: PivotDoor043
+    4300460: PivotDoor042
+    4300462: PivotDoor041
+    4300464: PivotDoor040
+    4300466: PivotDoor039
+    4300468: PivotDoor038
+    4300470: PivotDoor037
+    4300472: PivotDoor036
+    4300474: PivotDoor035
+    4300476: PivotDoor034
+    4300478: PivotDoor033
+    4300480: PivotDoor024
+    4300482: PivotDoor012
+    4300484: Line049
+    4300486: Line048
+    4300488: Line047
+    4300490: Line046
+    4300492: Line045
+    4300494: Line044
+    4300496: Line043
+    4300498: Line042
+    4300500: Line041
+    4300502: Line041
+    4300504: Line040
+    4300506: Line039
+    4300508: Line038
+    4300510: Line037
+    4300512: Line036
+    4300514: Line035
+    4300516: Line034
+    4300518: Line033
+    4300520: Line032
+    4300522: Line031
+    4300524: Line030
+    4300526: Line029
+    4300528: Line028
+    4300530: Line027
+    4300532: Line026
+    4300534: Line025
+    4300536: Line024
+    4300538: Line023
+    4300540: Line022
+    4300542: Line021
+    4300544: Line020
+    4300546: Line019
+    4300548: Line009
+    4300550: Line001
+    4300552: FixedWindow050
+    4300554: FixedWindow049
+    4300556: FixedWindow048
+    4300558: FixedWindow047
+    4300560: FixedWindow046
+    4300562: FixedWindow045
+    4300564: FixedWindow044
+    4300566: FixedWindow043
+    4300568: FixedWindow042
+    4300570: FixedWindow041
+    4300572: FixedWindow040
+    4300574: FixedWindow039
+    4300576: FixedWindow038
+    4300578: FixedWindow037
+    4300580: FixedWindow036
+    4300582: FixedWindow035
+    4300584: FixedWindow034
+    4300586: FixedWindow033
+    4300588: FixedWindow032
+    4300590: FixedWindow031
+    4300592: FixedWindow030
+    4300594: FixedWindow029
+    4300596: FixedWindow028
+    4300598: FixedWindow027
+    4300600: FixedWindow026
+    4300602: FixedWindow025
+    4300604: FixedWindow024
+    4300606: FixedWindow023
+    4300608: FixedWindow022
+    4300610: FixedWindow021
+    4300612: FixedWindow020
+    4300614: FixedWindow019
+    4300616: FixedWindow018
+    4300618: FixedWindow017
+    4300620: FixedWindow016
+    4300622: FixedWindow015
+    4300624: FixedWindow014
+    4300626: FixedWindow013
+    4300628: FixedWindow012
+    4300630: FixedWindow011
+    4300632: FixedWindow010
+    4300634: FixedWindow009
+    4300636: FixedWindow008
+    4300638: FixedWindow007
+    4300640: FixedWindow006
+    4300642: FixedWindow005
+    4300644: FixedWindow004
+    4300646: FixedWindow003
+    4300648: FixedWindow002
+    4300650: Cylinder055
+    4300652: Cylinder054
+    4300654: Cylinder053
+    4300656: Cylinder052
+    4300658: Cylinder051
+    4300660: Cylinder049
+    4300662: Cylinder048
+    4300664: Cylinder047
+    4300666: Cylinder046
+    4300668: Cylinder045
+    4300670: Cylinder044
+    4300672: Cylinder043
+    4300674: Cylinder042
+    4300676: Cylinder040
+    4300678: Cylinder039
+    4300680: Cylinder038
+    4300682: Cylinder037
+    4300684: Cylinder036
+    4300686: Cylinder035
+    4300688: Cylinder034
+    4300690: Cylinder033
+    4300692: Cylinder032
+    4300694: Cylinder031
+    4300696: Cylinder030
+    4300698: Cylinder029
+    4300700: Cylinder028
+    4300702: Cylinder027
+    4300704: Cylinder022
+    4300706: Cylinder021
+    4300708: Cylinder020
+    4300710: Cylinder019
+    4300712: Cylinder018
+    4300714: Cylinder017
+    4300716: Cylinder016
+    4300718: Cylinder012
+    4300720: Cylinder010
+    4300722: Cylinder009
+    4300724: Cylinder008
+    4300726: Cylinder007
+    4300728: Cylinder006
+    4300730: Cylinder005
+    4300732: Cylinder004
+    4300734: Cylinder003
+    4300736: Cylinder002
+    4300738: Cylinder001
+    4300740: PivotDoor062
+    4300742: Line033
+    4300744: Line032
+    4300746: Line031
+    4300748: Line030
+    4300750: Line029
+    4300752: Line028
+    4300754: Line027
+    4300756: Line026
+    4300758: Line025
+    4300760: Line024
+    4300762: Line023
+    4300764: Line022
+    4300766: Line021
+    4300768: Line020
+    4300770: Line019
+    4300772: Line018
+    4300774: Line017
+    4300776: Line016
+    4300778: Line015
+    4300780: Line014
+    4300782: Line013
+    4300784: Line012
+    4300786: Line011
+    4300788: Line010
+    4300790: Line009
+    4300792: Line008
+    4300794: Line007
+    4300796: Line006
+    4300798: Line005
+    4300800: Line004
+    4300802: Line003
+    4300804: Line002
+    4300806: Line001
+    4300808: Cylinder052
+    4300810: Cylinder051
+    4300812: Cylinder050
+    4300814: Cylinder049
+    4300816: Cylinder048
+    4300818: Cylinder047
+    4300820: Cylinder046
+    4300822: Cylinder045
+    4300824: Cylinder044
+    4300826: Cylinder043
+    4300828: Cylinder042
+    4300830: Cylinder041
+    4300832: Cylinder040
+    4300834: Cylinder039
+    4300836: Cylinder038
+    4300838: Cylinder037
+    4300840: Cylinder036
+    4300842: Cylinder035
+    4300844: Cylinder034
+    4300846: Cylinder033
+    4300848: Cylinder032
+    4300850: Cylinder031
+    4300852: Cylinder030
+    4300854: Cylinder029
+    4300856: Cylinder028
+    4300858: Cylinder027
+    4300860: Cylinder022
+    4300862: Cylinder021
+    4300864: Cylinder020
+    4300866: Cylinder019
+    4300868: Cylinder018
+    4300870: Cylinder017
+    4300872: Cylinder016
+    4300874: Cylinder012
+    4300876: Cylinder010
+    4300878: Cylinder009
+    4300880: Cylinder008
+    4300882: Cylinder007
+    4300884: Cylinder006
+    4300886: Cylinder005
+    4300888: Cylinder004
+    4300890: Cylinder003
+    4300892: Cylinder002
+    4300894: Cylinder001
+    4300896: FixedWindow003
+    4300898: FixedWindow004
+    4300900: FixedWindow005
+    4300902: FixedWindow006
+    4300904: FixedWindow007
+    4300906: FixedWindow008
+    4300908: FixedWindow009
+    4300910: FixedWindow010
+    4300912: FixedWindow011
+    4300914: FixedWindow012
+    4300916: FixedWindow013
+    4300918: FixedWindow014
+    4300920: FixedWindow015
+    4300922: FixedWindow016
+    4300924: FixedWindow017
+    4300926: FixedWindow018
+    4300928: FixedWindow019
+    4300930: FixedWindow020
+    4300932: FixedWindow021
+    4300934: FixedWindow022
+    4300936: FixedWindow023
+    4300938: FixedWindow024
+    4300940: FixedWindow025
+    4300942: FixedWindow026
+    4300944: FixedWindow027
+    4300946: FixedWindow028
+    4300948: FixedWindow029
+    4300950: FixedWindow030
+    4300952: FixedWindow031
+    4300954: FixedWindow032
+    4300956: FixedWindow033
+    4300958: FixedWindow034
+    4300960: FixedWindow035
+    4300962: FixedWindow036
+    4300964: FixedWindow037
+    4300966: FixedWindow038
+    4300968: FixedWindow039
+    4300970: FixedWindow040
+    4300972: FixedWindow041
+    4300974: FixedWindow042
+    4300976: FixedWindow043
+    4300978: FixedWindow044
+    4300980: FixedWindow045
+    4300982: FixedWindow046
+    4300984: FixedWindow047
+    4300986: FixedWindow048
+    4300988: Line046
+    4300990: Line054
+    4300992: Line050
+    4300994: Line052
+    4300996: Object045
+    4300998: Object047
+    4301000: Object049
+    4301002: Object051
+    4301004: Object053
+    4301006: Object055
+    4301008: Object057
+    4301010: Object059
+    4301012: Object061
+    4301014: Object063
+    4301016: Object065
+    4301018: PivotDoor063
+    4301020: PivotDoor064
+    4301022: PivotDoor066
+    4301024: PivotDoor067
+    4301026: PivotDoor068
+    4301028: PivotDoor069
+    4301030: PivotDoor070
+    4301032: PivotDoor072
+    4301034: PivotDoor073
+    4301036: PivotDoor074
+    4301038: PivotDoor075
+    4301040: PivotDoor076
+    4301042: PivotDoor077
+    4301044: PivotDoor078
+    4301046: PivotDoor079
+    4301048: PivotDoor080
+    4301050: PivotDoor081
+    4301052: PivotDoor082
+    4301054: PivotDoor083
+    4301056: PivotDoor084
+    4301058: PivotDoor085
+    4301060: PivotDoor086
+    4301062: PivotDoor087
+    4301064: PivotDoor088
+    4301066: PivotDoor089
+    4301068: PivotDoor090
+    4301070: PivotDoor091
+    4301072: PivotDoor092
+    4301074: PivotDoor093
+    4301076: PivotDoor094
+    4301078: PivotDoor096
+    4301080: PivotDoor097
+    4301082: PivotDoor098
+    4301084: PivotDoor099
+    4301086: PivotDoor100
+    4301088: PivotDoor101
+    4301090: Box003
+    4301092: Box004
+    4301094: Box005
+    4301096: Line053
+    4301098: Object066
+    4301100: PivotDoor102
+    4301102: Line055
+    4301104: Object067
+    4301106: Line028
+    4301108: Line027
+    4301110: Line026
+    4301112: Line025
+    4301114: Line024
+    4301116: Line023
+    4301118: Line022
+    4301120: Line021
+    4301122: Line020
+    4301124: Line019
+    4301126: Line018
+    4301128: Line017
+    4301130: Line016
+    4301132: Line015
+    4301134: Line014
+    4301136: Line013
+    4301138: Line012
+    4301140: Line011
+    4301142: Line010
+    4301144: Line009
+    4301146: Line008
+    4301148: Line007
+    4301150: Line006
+    4301152: Line005
+    4301154: Line004
+    4301156: Line003
+    4301158: Line002
+    4301160: Line001
+    4301162: Cylinder055
+    4301164: Cylinder054
+    4301166: Cylinder053
+    4301168: Cylinder052
+    4301170: Cylinder051
+    4301172: Cylinder050
+    4301174: Cylinder049
+    4301176: Cylinder048
+    4301178: Cylinder047
+    4301180: Cylinder046
+    4301182: Cylinder044
+    4301184: Cylinder045
+    4301186: Cylinder043
+    4301188: Cylinder042
+    4301190: Cylinder041
+    4301192: Cylinder040
+    4301194: Cylinder039
+    4301196: Cylinder038
+    4301198: Cylinder037
+    4301200: Cylinder036
+    4301202: Cylinder035
+    4301204: Cylinder034
+    4301206: Cylinder033
+    4301208: Cylinder032
+    4301210: Cylinder031
+    4301212: Cylinder030
+    4301214: Cylinder029
+    4301216: Cylinder028
+    4301218: Cylinder027
+    4301220: Cylinder022
+    4301222: Cylinder021
+    4301224: Cylinder019
+    4301226: Cylinder020
+    4301228: Cylinder018
+    4301230: Cylinder017
+    4301232: Cylinder016
+    4301234: Cylinder012
+    4301236: Cylinder010
+    4301238: Cylinder009
+    4301240: Cylinder008
+    4301242: Cylinder007
+    4301244: Cylinder006
+    4301246: Cylinder005
+    4301248: Cylinder004
+    4301250: Cylinder003
+    4301252: Cylinder002
+    4301254: Cylinder001
+    4301256: FixedWindow051
+    4301258: FixedWindow052
+    4301260: FixedWindow053
+    4301262: FixedWindow054
+    4301264: FixedWindow055
+    4301266: FixedWindow056
+    4301268: FixedWindow057
+    4301270: FixedWindow058
+    4301272: FixedWindow059
+    4301274: FixedWindow060
+    4301276: FixedWindow061
+    4301278: FixedWindow062
+    4301280: FixedWindow063
+    4301282: FixedWindow064
+    4301284: FixedWindow065
+    4301286: FixedWindow066
+    4301288: FixedWindow067
+    4301290: FixedWindow068
+    4301292: FixedWindow069
+    4301294: FixedWindow070
+    4301296: FixedWindow071
+    4301298: FixedWindow072
+    4301300: FixedWindow073
+    4301302: FixedWindow074
+    4301304: FixedWindow075
+    4301306: FixedWindow076
+    4301308: FixedWindow077
+    4301310: FixedWindow078
+    4301312: FixedWindow079
+    4301314: FixedWindow080
+    4301316: FixedWindow081
+    4301318: FixedWindow082
+    4301320: FixedWindow083
+    4301322: FixedWindow084
+    4301324: FixedWindow085
+    4301326: FixedWindow086
+    4301328: FixedWindow087
+    4301330: FixedWindow088
+    4301332: FixedWindow089
+    4301334: FixedWindow090
+    4301336: FixedWindow091
+    4301338: FixedWindow092
+    4301340: FixedWindow093
+    4301342: FixedWindow094
+    4301344: FixedWindow095
+    4301346: FixedWindow096
+    4301348: Line001
+    4301350: Cylinder001
+    4301352: Cylinder002
+    4301354: Cylinder003
+    4301356: Cylinder004
+    4301358: Cylinder005
+    4301360: Cylinder006
+    4301362: Cylinder007
+    4301364: Cylinder008
+    4301366: Cylinder009
+    4301368: Cylinder010
+    4301370: Cylinder012
+    4301372: Cylinder016
+    4301374: Cylinder017
+    4301376: Cylinder018
+    4301378: Cylinder019
+    4301380: Cylinder020
+    4301382: Cylinder021
+    4301384: Cylinder022
+    4301386: Cylinder027
+    4301388: Cylinder028
+    4301390: Cylinder029
+    4301392: Cylinder030
+    4301394: Cylinder036
+    4301396: Cylinder037
+    4301398: Cylinder038
+    4301400: Cylinder039
+    4301402: Cylinder040
+    4301404: Cylinder041
+    4301406: Cylinder042
+    4301408: Cylinder047
+    4301410: Cylinder048
+    4301412: Cylinder049
+    4301414: Cylinder050
+    4301416: Line028
+    4301418: Line029
+    4301420: Line030
+    4301422: Line031
+    4301424: Line032
+    4301426: Line033
+    4301428: Line034
+    4301430: Line035
+    4301432: Line036
+    4301434: Line037
+    4301436: Line038
+    4301438: Line039
+    4301440: Line040
+    4301442: Line041
+    4301444: Line042
+    4301446: Line043
+    4301448: Line044
+    4301450: Line045
+    4301452: Line046
+    4301454: Line047
+    4301456: Line048
+    4301458: Line049
+    4301460: FixedWindow097
+    4301462: FixedWindow098
+    4301464: FixedWindow099
+    4301466: FixedWindow100
+    4301468: FixedWindow101
+    4301470: FixedWindow102
+    4301472: FixedWindow103
+    4301474: FixedWindow104
+    4301476: FixedWindow105
+    4301478: FixedWindow106
+    4301480: FixedWindow107
+    4301482: FixedWindow108
+    4301484: FixedWindow109
+    4301486: FixedWindow110
+    4301488: FixedWindow111
+    4301490: FixedWindow112
+    4301492: FixedWindow113
+    4301494: FixedWindow114
+    4301496: FixedWindow115
+    4301498: FixedWindow116
+    4301500: FixedWindow117
+    4301502: FixedWindow118
+    4301504: FixedWindow119
+    4301506: FixedWindow120
+    4301508: FixedWindow121
+    4301510: FixedWindow122
+    4301512: FixedWindow123
+    4301514: FixedWindow124
+    4301516: FixedWindow125
+    4301518: FixedWindow126
+    4301520: FixedWindow127
+    4301522: FixedWindow128
+    4301524: FixedWindow129
+    4301526: FixedWindow130
+    4301528: FixedWindow131
+    4301530: FixedWindow132
+    4301532: FixedWindow133
+    4301534: FixedWindow134
+    4301536: FixedWindow135
+    4301538: FixedWindow136
+    4301540: FixedWindow137
+    4301542: FixedWindow138
+    4301544: FixedWindow139
+    4301546: FixedWindow140
+    4301548: FixedWindow141
+    4301550: FixedWindow142
+    4301552: Line056
+    4301554: StraightStair008
+    4301556: StraightStair009
+    4301558: StraightStair010
+    4301560: StraightStair011
+    4301562: StraightStair012
+    4301564: StraightStair013
+    4301566: StraightStair014
+    4301568: StraightStair015
+    4301570: StraightStair016
+    4301572: StraightStair017
+    4301574: FixedWindow143
+    4301576: FixedWindow144
+    4301578: FixedWindow145
+    4301580: FixedWindow146
+    4301582: FixedWindow147
+    4301584: FixedWindow148
+    4301586: FixedWindow149
+    4301588: FixedWindow150
+    4301590: FixedWindow151
+    4301592: FixedWindow152
+    4301594: FixedWindow153
+    4301596: FixedWindow154
+    4301598: FixedWindow155
+    4301600: FixedWindow156
+    4301602: FixedWindow157
+    4301604: FixedWindow158
+    4301606: FixedWindow159
+    4301608: FixedWindow160
+    4301610: FixedWindow161
+    4301612: FixedWindow162
+    4301614: FixedWindow163
+    4301616: FixedWindow164
+    4301618: FixedWindow165
+    4301620: FixedWindow166
+    4301622: FixedWindow167
+    4301624: FixedWindow168
+    4301626: FixedWindow169
+    4301628: FixedWindow170
+    4301630: FixedWindow171
+    4301632: FixedWindow172
+    4301634: FixedWindow173
+    4301636: FixedWindow174
+    4301638: FixedWindow175
+    4301640: FixedWindow176
+    4301642: FixedWindow177
+    4301644: FixedWindow178
+    4301646: FixedWindow179
+    4301648: FixedWindow180
+    4301650: FixedWindow181
+    4301652: FixedWindow182
+    4301654: FixedWindow183
+    4301656: FixedWindow184
+    4301658: FixedWindow185
+    4301660: FixedWindow186
+    4301662: FixedWindow187
+    4301664: FixedWindow188
+    4301666: FixedWindow189
+    4301668: FixedWindow190
+    4301670: FixedWindow191
+    4301672: FixedWindow192
+    4301674: FixedWindow193
+    4301676: FixedWindow194
+    4301678: Object045
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

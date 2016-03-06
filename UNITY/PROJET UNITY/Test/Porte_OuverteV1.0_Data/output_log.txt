@@ -1,0 +1,246 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\pierre\Desktop\projet\Projet 2A - 2014-2015\unity\Test\Porte_OuverteV1.0_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\pierre\Desktop\projet\Projet 2A - 2014-2015\unity\Test\Porte_OuverteV1.0_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\pierre\Desktop\projet\Projet 2A - 2014-2015\unity\Test\Porte_OuverteV1.0_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\pierre\Desktop\projet\Projet 2A - 2014-2015\unity\Test\Porte_OuverteV1.0_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\pierre\Desktop\projet\Projet 2A - 2014-2015\unity\Test\Porte_OuverteV1.0_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\pierre\Desktop\projet\Projet 2A - 2014-2015\unity\Test\Porte_OuverteV1.0_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\pierre\Desktop\projet\Projet 2A - 2014-2015\unity\Test\Porte_OuverteV1.0_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\pierre\Desktop\projet\Projet 2A - 2014-2015\unity\Test\Porte_OuverteV1.0_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\pierre\Desktop\projet\Projet 2A - 2014-2015\unity\Test\Porte_OuverteV1.0_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\pierre\Desktop\projet\Projet 2A - 2014-2015\unity\Test\Porte_OuverteV1.0_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.078 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\pierre\Desktop\projet\Projet 2A - 2014-2015\unity\Test\Porte_OuverteV1.0_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\pierre\Desktop\projet\Projet 2A - 2014-2015\unity\Test\Porte_OuverteV1.0_Data\Managed\System.dll (this message is harmless)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.357175 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 6784.
+Total: 0.623209 ms (FindLiveObjects: 0.173250 ms CreateObjectMapping: 0.082519 ms MarkObjects: 0.346911 ms  DeleteObjects: 0.020527 ms)
+
+Platform assembly: C:\Users\pierre\Desktop\projet\Projet 2A - 2014-2015\unity\Test\Porte_OuverteV1.0_Data\Managed\Boo.Lang.dll (this message is harmless)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.198475 ms
+
+Unloading 618 unused Assets to reduce memory usage. Loaded Objects now: 199.
+Total: 2.787609 ms (FindLiveObjects: 0.029969 ms CreateObjectMapping: 0.037770 ms MarkObjects: 0.080467 ms  DeleteObjects: 2.639402 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 324 -> priority: 1 
+  Thread -> id: 11d4 -> priority: 1 
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.307909 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 280.
+Total: 0.469254 ms (FindLiveObjects: 0.046802 ms CreateObjectMapping: 0.036538 ms MarkObjects: 0.323099 ms  DeleteObjects: 0.061992 ms)
+
+Good Shot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tu es mauvais
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tu es mauvais
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Good Shot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tu es mauvais
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tu es mauvais
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tu es mauvais
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tu es mauvais
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tu es mauvais
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tu es mauvais
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tu es mauvais
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tu es mauvais
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tu es mauvais
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tu es mauvais
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tu es mauvais
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tu es mauvais
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tu es mauvais
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tu es mauvais
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Good Shot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tu es mauvais
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tu es mauvais
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tu es mauvais
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tu es mauvais
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tu es mauvais
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tu es mauvais
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tu es mauvais
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tu es mauvais
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tu es mauvais
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tu es mauvais
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tu es mauvais
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tu es mauvais
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Good Shot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tu es mauvais
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tu es mauvais
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tu es mauvais
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Good Shot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tu es mauvais
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tu es mauvais
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tu es mauvais
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tu es mauvais
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tu es mauvais
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tu es mauvais
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tu es mauvais
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tu es mauvais
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tu es mauvais
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.092143 ms
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 207.
+Total: 0.212252 ms (FindLiveObjects: 0.025043 ms CreateObjectMapping: 0.008210 ms MarkObjects: 0.109205 ms  DeleteObjects: 0.069382 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.305446 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 6792.
+Total: 0.805902 ms (FindLiveObjects: 0.231958 ms CreateObjectMapping: 0.071024 ms MarkObjects: 0.470075 ms  DeleteObjects: 0.032433 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.069377 ms
+
+Unloading 619 unused Assets to reduce memory usage. Loaded Objects now: 203.
+Total: 3.233462 ms (FindLiveObjects: 0.040233 ms CreateObjectMapping: 0.028327 ms MarkObjects: 0.134659 ms  DeleteObjects: 3.029010 ms)
+

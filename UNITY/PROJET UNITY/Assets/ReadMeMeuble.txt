@@ -1,0 +1,1 @@
+Faire un proOptimiseur sous 3DSMAX pour diminuer le nombre de point
