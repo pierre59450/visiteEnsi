@@ -1,0 +1,139 @@
+<!DOCTYPE html> 
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html" charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="style.css" />
+	<link href="bootstrap/css/bootstrap.css" rel="stylesheet">
+	<script src="bootstrap/js/jquery.js"></script>
+	<script src="bootstrap/js/bootstrap.min.js"></script>
+    <script type='text/javascript' src='https://ssl-webplayer.unity3d.com/download_webplayer-3.x/3.0/uo/jquery.min.js'></script>
+    <script type="text/javascript">
+      var unityObjectUrl = "http://webplayer.unity3d.com/download_webplayer-3.x/3.0/uo/UnityObject2.js";
+      if (document.location.protocol == 'https:')
+      unityObjectUrl = unityObjectUrl.replace("http://", "https://ssl-");
+      document.write('<script type="text\/javascript" src="' + unityObjectUrl + '"><\/script>');
+      </script>
+      <script type="text/javascript">
+	var config = {
+	width: 1280, 
+	height: 800,
+	params: { enableDebugging:"0" }
+	
+	};
+	var u = new UnityObject2(config);
+	
+	jQuery(function() {
+	
+	var $missingScreen = jQuery("#unityPlayer").find(".missing");
+	var $brokenScreen = jQuery("#unityPlayer").find(".broken");
+	$missingScreen.hide();
+	$brokenScreen.hide();
+	
+	u.observeProgress(function (progress) {
+	switch(progress.pluginStatus) {
+	case "broken":
+	$brokenScreen.find("a").click(function (e) {
+	e.stopPropagation();
+	e.preventDefault();
+	u.installPlugin();
+	return false;
+	});
+	$brokenScreen.show();
+	break;
+	case "missing":
+	$missingScreen.find("a").click(function (e) {
+	e.stopPropagation();
+	e.preventDefault();
+	u.installPlugin();
+	return false;
+	});
+	$missingScreen.show();
+	break;
+	case "installed":
+	$missingScreen.remove();
+	break;
+	case "first":
+	break;
+	}
+	});
+	u.initPlugin(jQuery("#unityPlayer")[0], "ReleaseWeb.unity3d");
+	});
+      
+    </script>
+
+    <title>Visite 3D de l'ENSICAEN</title>
+  </head>
+  
+  <body>
+  	<div class="navbar navbar-inverse">
+		<ul class="nav navbar-nav">
+			<li class="active"> <a href="#">Accueil</a> </li>
+			<!--<li> <a href="Galerie/galerie.html">Galerie</a> </li>
+			<li> <a href="presentation.html">Présentation Du Projet</a> </li>
+			<li> <a href="equipe.html">Notre Equipe</a>-->
+			<li> <a href="release.html">Présentation et Rapport</a>
+			<li> <a href="contact.html">Nous Contacter</a> </li>
+		</ul>
+	</div>
+	<header class="row">
+		<img class="logo" src="ensicaen.jpg" alt="Logo ENSICAEN">
+	</header>
+
+
+	<center>
+		<div class="content visible-lg visible-md">
+			<div id="unityPlayer">
+				<div class="missing">
+					<a href="http://unity3d.com/webplayer/" title="Unity Web Player. Install now!">
+						<img alt="Unity Web Player. Install now!" src="http://webplayer.unity3d.com/installation/getunity.png" width="193" height="63" />
+					</a>
+				</div>
+				<div class="broken">
+					<a href="http://unity3d.com/webplayer/" title="Unity Web Player. Install now! Restart your browser after install.">
+						<img alt="Unity Web Player. Install now! Restart your browser after install." src="http://webplayer.unity3d.com/installation/getunityrestart.png" width="193" height="63" />
+					</a>
+				</div>
+			</div>
+			Telecharger le jeu <a href="WEB.rar">ici</a>
+		</div>
+	</center>
+	<div class="smartphone visible-xs">
+		le projet n'est pas encore disponible sur telephone
+	</div>
+	<div class="smartphone visible-sm">
+		le projet n'est pas encore disponible sur tablette
+	</div>
+
+
+    <section class="row">
+      <h1>Bienvenue sur La présentation de L'ensicaen en 3D</h1>
+      
+      <p>
+	Nous somme étudiants ingénieurs informatique (majeure image & multimédia) à l'ENSICAEN, 
+	actuellement en 2ème année. Vous trouverez ici la présentation de l'ENSICAEN en 3D.
+      </p>
+    </section>
+		
+		
+		
+    <footer>
+	<div class="visible-lg visible-md">
+	<a href="http://www.ecole.ensicaen.fr/"><img class="gif" src="gif/logoBDE.gif"></a>
+
+      Site créé par VANDROMME Pierre - V1.2 (02/11/2014).
+	  	<a href="http://www.ensicaen.fr/"><img class="gif" src="gif/logoENSICAEN.gif"></a>
+	  </br>
+      HTML5 - CSS3<br/><br/>
+	  </div>
+	  
+	  <div class="visible-sm visible-xs">
+
+      Site créé par VANDROMME Pierre - V1.2 (02/11/2014).</br>
+      HTML5 - CSS3<br/><br/>
+</div>
+    </footer>
+    
+  </body>
+</html>
+
